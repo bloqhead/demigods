@@ -1,0 +1,272 @@
+[
+  {
+    "id": 4,
+    "weapon": "Erdtree Bow",
+    "tier": "S",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "E"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": "Mighty Shot",
+    "stats": {
+      "weight": 4,
+      "physical": 40,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 50
+    }
+  },
+  {
+    "id": 46,
+    "weapon": "Horn Bow",
+    "tier": "A",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Mighty Shot",
+    "stats": {
+      "weight": 4.5,
+      "physical": 65,
+      "magic": 30,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 109,
+    "weapon": "Albinauric Bow",
+    "tier": "C",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Mighty Shot",
+    "stats": {
+      "weight": 4.5,
+      "physical": 82,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 158,
+    "weapon": "Longbow",
+    "tier": "D",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Mighty Shot",
+    "stats": {
+      "weight": 4,
+      "physical": 80,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 167,
+    "weapon": "Pulley Bow",
+    "tier": "D",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Mighty Shot",
+    "stats": {
+      "weight": 5,
+      "physical": 77,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 216,
+    "weapon": "Serpent Bow",
+    "tier": "E",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "arc": "D"
+      }
+    ],
+    "skill": "Mighty Shot",
+    "stats": {
+      "weight": 5.5,
+      "physical": 75,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 233,
+    "weapon": "Black Bow",
+    "tier": "F",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Barrage",
+    "stats": {
+      "weight": 4,
+      "physical": 70,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 241,
+    "weapon": "Composite Bow",
+    "tier": "F",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Mighty Shot",
+    "stats": {
+      "weight": 3,
+      "physical": 65,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 257,
+    "weapon": "Harp Bow",
+    "tier": "F",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "E"
+      }
+    ],
+    "skill": "Barrage",
+    "stats": {
+      "weight": 2,
+      "physical": 62,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 270,
+    "weapon": "Misbegotten Shortbow",
+    "tier": "F",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "E"
+      }
+    ],
+    "skill": "Barrage",
+    "stats": {
+      "weight": 3,
+      "physical": 68,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 281,
+    "weapon": "Red Branch Shortbow",
+    "tier": "F",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Barrage",
+    "stats": {
+      "weight": 2.5,
+      "physical": 65,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 286,
+    "weapon": "Shortbow",
+    "tier": "F",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "E"
+      }
+    ],
+    "skill": "Barrage",
+    "stats": {
+      "weight": 2.5,
+      "physical": 65,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  }
+]

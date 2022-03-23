@@ -1,0 +1,7115 @@
+[
+  {
+    "id": 0,
+    "weapon": "Academy Glintstone Staff",
+    "tier": "B",
+    "type": "glintstone staff",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "int": "B"
+      }
+    ],
+    "skill": "None",
+    "stats": {
+      "weight": 3,
+      "physical": 25,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 1,
+    "weapon": "Alabaster Lord's Sword",
+    "tier": "D",
+    "type": "greatsword",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "E"
+      },
+      {
+        "int": "D"
+      }
+    ],
+    "skill": "Alabaster Lords' Pull",
+    "stats": {
+      "weight": 8,
+      "physical": 128,
+      "magic": 38,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 2,
+    "weapon": "Albinauric Bow",
+    "tier": "C",
+    "type": "light bow",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Mighty Shot",
+    "stats": {
+      "weight": 4.5,
+      "physical": 82,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 3,
+    "weapon": "Albinauric Staff",
+    "tier": null,
+    "type": "glintstone staff",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "int": "D"
+      },
+      {
+        "arc": "C"
+      }
+    ],
+    "skill": null,
+    "stats": {
+      "weight": 2.5,
+      "physical": 17,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 4,
+    "weapon": "Antspur Rapier",
+    "tier": "B",
+    "type": "thrusting sword",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Impaling Thrust",
+    "stats": {
+      "weight": 3,
+      "physical": 98,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 5,
+    "weapon": "Arbalest",
+    "tier": "E",
+    "type": "crossbow",
+    "scaling": [{}],
+    "skill": "Kick",
+    "stats": {
+      "weight": 6,
+      "physical": 69,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 6,
+    "weapon": "Astrologer's Staff",
+    "tier": "D",
+    "type": "glintstone staff",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "int": "C"
+      }
+    ],
+    "skill": null,
+    "stats": {
+      "weight": 3,
+      "physical": 25,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 7,
+    "weapon": "Axe of Godfrey",
+    "tier": "C",
+    "type": "colossal weapon",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Regal Roar",
+    "stats": {
+      "weight": 18,
+      "physical": 165,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 8,
+    "weapon": "Axe of Godrick",
+    "tier": "B",
+    "type": "great axe",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "I Command Thee, Kneel!",
+    "stats": {
+      "weight": 11,
+      "physical": 142,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 9,
+    "weapon": "Azur's Glintstone Staff",
+    "tier": "A",
+    "type": "glintstone staff",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "int": "B"
+      }
+    ],
+    "skill": null,
+    "stats": {
+      "weight": 4,
+      "physical": 24,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 10,
+    "weapon": "Bandit's Curved Sword",
+    "tier": "C",
+    "type": "curved sword",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Spinning Slash",
+    "stats": {
+      "weight": 5,
+      "physical": 118,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 11,
+    "weapon": "Banished Knight's Greatsword",
+    "tier": "F",
+    "type": "greatsword",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Stamp (Upward Cut)",
+    "stats": {
+      "weight": 10,
+      "physical": 142,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 12,
+    "weapon": "Banished Knight's Halberd",
+    "tier": "F",
+    "type": "halberd",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Charge Forth",
+    "stats": {
+      "weight": 8,
+      "physical": 125,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 13,
+    "weapon": "Bastard Sword",
+    "tier": "F",
+    "type": "greatsword",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Stamp (Upward Cut)",
+    "stats": {
+      "weight": 9,
+      "physical": 138,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 14,
+    "weapon": "Bastard's Stars",
+    "tier": "A",
+    "type": "flail",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "int": "C"
+      }
+    ],
+    "skill": "Nebula",
+    "stats": {
+      "weight": 5.5,
+      "physical": 65,
+      "magic": 78,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 15,
+    "weapon": "Battle Axe",
+    "tier": "E",
+    "type": "axe",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Wild Strikes",
+    "stats": {
+      "weight": 4.5,
+      "physical": 123,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 16,
+    "weapon": "Battle Hammer",
+    "tier": "E",
+    "type": "warhammer",
+    "scaling": [
+      {
+        "str": "C"
+      },
+      {
+        "dex": "E"
+      }
+    ],
+    "skill": "Braggart's Roar",
+    "stats": {
+      "weight": 10,
+      "physical": 131,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 17,
+    "weapon": "Beast-Repellent Torch",
+    "tier": "B",
+    "type": "torchs",
+    "scaling": [
+      {
+        "str": "C"
+      },
+      {
+        "dex": "E"
+      }
+    ],
+    "skill": "Torch Attack",
+    "stats": {
+      "weight": 2.5,
+      "physical": 58,
+      "magic": 0,
+      "fire": 104,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 18,
+    "weapon": "Beastclaw Greathammer",
+    "tier": "A",
+    "type": "warhammer",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": "Regal Beastclaw",
+    "stats": {
+      "weight": 9,
+      "physical": 116,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 75
+    }
+  },
+  {
+    "id": 19,
+    "weapon": "Beastman's Cleaver",
+    "tier": "D",
+    "type": "curved greatsword",
+    "scaling": [{}],
+    "skill": "",
+    "stats": {
+      "weight": 16.5,
+      "physical": 143,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 20,
+    "weapon": "Beastman's Curved Sword",
+    "tier": "D",
+    "type": "curved sword",
+    "scaling": [
+      {
+        "str": "C"
+      },
+      {
+        "dex": "E"
+      }
+    ],
+    "skill": "Spinning Slash",
+    "stats": {
+      "weight": 4,
+      "physical": 113,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 21,
+    "weapon": "Black Bow",
+    "tier": "F",
+    "type": "light bow",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Barrage",
+    "stats": {
+      "weight": 4,
+      "physical": 70,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 22,
+    "weapon": "Black Knife",
+    "tier": "A",
+    "type": "dagger",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": "Blade of Death",
+    "stats": {
+      "weight": 2,
+      "physical": 66,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 65
+    }
+  },
+  {
+    "id": 23,
+    "weapon": "Blade of Calling",
+    "tier": "A",
+    "type": "dagger",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "fai": "C"
+      }
+    ],
+    "skill": "Blade of Gold",
+    "stats": {
+      "weight": 1.5,
+      "physical": 71,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 43
+    }
+  },
+  {
+    "id": 24,
+    "weapon": "Blasphemous Blade",
+    "tier": "S",
+    "type": "greatsword",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": "Taker's Flames",
+    "stats": {
+      "weight": 13.5,
+      "physical": 121,
+      "magic": 0,
+      "fire": 78,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 25,
+    "weapon": "Bloodhound Claws",
+    "tier": "C",
+    "type": "claw",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Bloodhound's Step",
+    "stats": {
+      "weight": 3,
+      "physical": 94,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 26,
+    "weapon": "Bloodhound's Fang",
+    "tier": "D",
+    "type": "curved greatsword",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "C"
+      }
+    ],
+    "skill": "Bloodhound's Finesse",
+    "stats": {
+      "weight": 11.5,
+      "physical": 141,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 27,
+    "weapon": "Bloodstained Dagger",
+    "tier": "E",
+    "type": "dagger",
+    "scaling": [
+      {
+        "str": "C"
+      },
+      {
+        "dex": "E"
+      }
+    ],
+    "skill": "Quickstep",
+    "stats": {
+      "weight": 2,
+      "physical": 81,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 28,
+    "weapon": "Bloody Helice",
+    "tier": "E",
+    "type": "heavy thrusting sword",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Dynast's Finesse",
+    "stats": {
+      "weight": 8,
+      "physical": 130,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 29,
+    "weapon": "Bolt of Gransax",
+    "tier": "S",
+    "type": "spear",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Ancient Lightning Spear",
+    "stats": {
+      "weight": 8.5,
+      "physical": 98,
+      "magic": 0,
+      "fire": 0,
+      "light": 63,
+      "holy": 0
+    }
+  },
+  {
+    "id": 30,
+    "weapon": "Brick Hammer",
+    "tier": "F",
+    "type": "warhammer",
+    "scaling": [
+      {
+        "str": "B"
+      }
+    ],
+    "skill": "Barbaric Roar",
+    "stats": {
+      "weight": 12.5,
+      "physical": 122,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 31,
+    "weapon": "Broadsword",
+    "tier": "E",
+    "type": "straight sword",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "E"
+      }
+    ],
+    "skill": "Square Off",
+    "stats": {
+      "weight": 4,
+      "physical": 117,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 32,
+    "weapon": "Butchering Knife",
+    "tier": "D",
+    "type": "great axe",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "C"
+      }
+    ],
+    "skill": "Barbaric Roar",
+    "stats": {
+      "weight": 8.5,
+      "physical": 134,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 33,
+    "weapon": "Caestus",
+    "tier": "F",
+    "type": "fist",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Endure",
+    "stats": {
+      "weight": 1.5,
+      "physical": 90,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 34,
+    "weapon": "Cane Sword",
+    "tier": "F",
+    "type": "straight sword",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Square Off",
+    "stats": {
+      "weight": 2.5,
+      "physical": 96,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 35,
+    "weapon": "Carian Glintblade Staff",
+    "tier": null,
+    "type": "glintstone staff",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "int": "C"
+      },
+      {
+        "dex": "E"
+      }
+    ],
+    "skill": null,
+    "stats": {
+      "weight": 2.5,
+      "physical": 22,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 36,
+    "weapon": "Carian Glintstine Staff",
+    "tier": "D",
+    "type": "glintstone staff",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "int": "C"
+      }
+    ],
+    "skill": null,
+    "stats": {
+      "weight": 3,
+      "physical": 25,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 37,
+    "weapon": "Carian Knight's Sword",
+    "tier": "A",
+    "type": "straight sword",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "int": "D"
+      }
+    ],
+    "skill": "Carian Grandeur",
+    "stats": {
+      "weight": 4,
+      "physical": 88,
+      "magic": 88,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 38,
+    "weapon": "Carian Regal Scepter",
+    "tier": "E",
+    "type": "glintstone staff",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "E"
+      },
+      {
+        "int": "B"
+      }
+    ],
+    "skill": "Spinning Weapon",
+    "stats": {
+      "weight": 3,
+      "physical": 24,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 39,
+    "weapon": "Celebrant's Cleaver",
+    "tier": "E",
+    "type": "axe",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Wild Strkes",
+    "stats": {
+      "weight": 4.5,
+      "physical": 119,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 40,
+    "weapon": "Celebrant's Rib-Rake",
+    "tier": "E",
+    "type": "spear",
+    "scaling": [{}],
+    "skill": "",
+    "stats": {
+      "weight": 5,
+      "physical": 109,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 41,
+    "weapon": "Celebrant's Sickle",
+    "tier": "E",
+    "type": "dagger",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "C"
+      }
+    ],
+    "skill": "Quickstep",
+    "stats": {
+      "weight": 1.5,
+      "physical": 79,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 42,
+    "weapon": "Celebrant's Skull",
+    "tier": "D",
+    "type": "warhammer",
+    "scaling": [{}],
+    "skill": "Barbaric Roar",
+    "stats": {
+      "weight": 8.5,
+      "physical": 138,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 43,
+    "weapon": "Chainlink Flail",
+    "tier": "D",
+    "type": "flail",
+    "scaling": [
+      {
+        "str": "C"
+      },
+      {
+        "dex": "E"
+      }
+    ],
+    "skill": "Spinning Chain",
+    "stats": {
+      "weight": 8,
+      "physical": 109,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 44,
+    "weapon": "Cinquedea",
+    "tier": "C",
+    "type": "dagger",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "E"
+      }
+    ],
+    "skill": "Quickstep",
+    "stats": {
+      "weight": 3.5,
+      "physical": 98,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 45,
+    "weapon": "Cipher Pata",
+    "tier": "F",
+    "type": "fist",
+    "scaling": [
+      {
+        "fai": "C"
+      }
+    ],
+    "skill": "Unblockable Blade",
+    "stats": {
+      "weight": 0,
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 85
+    }
+  },
+  {
+    "id": 46,
+    "weapon": "Clawmark Seal",
+    "tier": "F",
+    "type": "sacred seal",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": null,
+    "stats": {
+      "weight": 1.5,
+      "physical": 31,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 47,
+    "weapon": "Clayman's Harpoon",
+    "tier": "B",
+    "type": "spear",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "E"
+      },
+      {
+        "int": "D"
+      }
+    ],
+    "skill": "Impaling Thrust",
+    "stats": {
+      "weight": 5.5,
+      "physical": 99,
+      "magic": 64,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 48,
+    "weapon": "Claymore",
+    "tier": "F",
+    "type": "greatsword",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Lion's Claw",
+    "stats": {
+      "weight": 9,
+      "physical": 138,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 49,
+    "weapon": "Cleanrot Knight's Sword",
+    "tier": "D",
+    "type": "thrusting sword",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Impaling Thrust",
+    "stats": {
+      "weight": 4,
+      "physical": 109,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 50,
+    "weapon": "Clinging Bone",
+    "tier": "F",
+    "type": "fist",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "C"
+      }
+    ],
+    "skill": "Lifesteal",
+    "stats": {
+      "weight": 2.5,
+      "physical": 96,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 51,
+    "weapon": "Club",
+    "tier": "D",
+    "type": "hammer",
+    "scaling": [
+      {
+        "str": "C"
+      }
+    ],
+    "skill": "Barbaric Roar",
+    "stats": {
+      "weight": 3.5,
+      "physical": 103,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 52,
+    "weapon": "Coded Sword",
+    "tier": "F",
+    "type": "straight sword",
+    "scaling": [
+      {
+        "fai": "B"
+      }
+    ],
+    "skill": "Unblockable Blade",
+    "stats": {
+      "weight": 2.5,
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 85
+    }
+  },
+  {
+    "id": 53,
+    "weapon": "Commander's Standard",
+    "tier": "E",
+    "type": "halberd",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Rallying Standard",
+    "stats": {
+      "weight": 11.5,
+      "physical": 138,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 54,
+    "weapon": "Composite Bow",
+    "tier": "F",
+    "type": "light bow",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Mighty Shot",
+    "stats": {
+      "weight": 3,
+      "physical": 65,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 55,
+    "weapon": "Cranial Vessel Candlestand",
+    "tier": "A",
+    "type": "warhammer",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "E"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": "Surge of Faith",
+    "stats": {
+      "weight": 12.5,
+      "physical": 98,
+      "magic": 0,
+      "fire": 98,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 56,
+    "weapon": "Crepus's Black-Key Crossbow",
+    "tier": "E",
+    "type": "crossbow",
+    "scaling": [{}],
+    "skill": "Kick",
+    "stats": {
+      "weight": 5,
+      "physical": 68,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 57,
+    "weapon": "Cross-Naginata",
+    "tier": "D",
+    "type": "spear",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "C"
+      }
+    ],
+    "skill": "Impaling Thrust",
+    "stats": {
+      "weight": 8,
+      "physical": 122,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 58,
+    "weapon": "Crystal Knife",
+    "tier": "S",
+    "type": "dagger",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "int": "D"
+      }
+    ],
+    "skill": "Quickstep",
+    "stats": {
+      "weight": 2,
+      "physical": 82,
+      "magic": 53,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 59,
+    "weapon": "Crystal Spear",
+    "tier": "B",
+    "type": "spear",
+    "scaling": [{}],
+    "skill": "",
+    "stats": {
+      "weight": 5.5,
+      "physical": 110,
+      "magic": 33,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 60,
+    "weapon": "Crystal Staff",
+    "tier": "D",
+    "type": "glintstone staff",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "int": "B"
+      }
+    ],
+    "skill": null,
+    "stats": {
+      "weight": 4.5,
+      "physical": 31,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 61,
+    "weapon": "Crystal Sword",
+    "tier": "A",
+    "type": "straight sword",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "E"
+      },
+      {
+        "int": "D"
+      }
+    ],
+    "skill": "Spinning Slash",
+    "stats": {
+      "weight": 4.5,
+      "physical": 106,
+      "magic": 68,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 62,
+    "weapon": "Curved Club",
+    "tier": "C",
+    "type": "hammer",
+    "scaling": [{}],
+    "skill": "",
+    "stats": {
+      "weight": 5,
+      "physical": 114,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 63,
+    "weapon": "Curved Great Club",
+    "tier": "D",
+    "type": "warhammer",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Barbaric Roar",
+    "stats": {
+      "weight": 10,
+      "physical": 145,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 64,
+    "weapon": "Dagger",
+    "tier": "F",
+    "type": "dagger",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "C"
+      }
+    ],
+    "skill": "Quickstep",
+    "stats": {
+      "weight": 1.5,
+      "physical": 74,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 65,
+    "weapon": "Dark Moon Greatsword",
+    "tier": "S",
+    "type": "greatsword",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "int": "C"
+      }
+    ],
+    "skill": "Moonlight Greatsword",
+    "stats": {
+      "weight": 10,
+      "physical": 82,
+      "magic": 98,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 66,
+    "weapon": "Death Ritual Spear",
+    "tier": "A",
+    "type": "spear",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "int": "D"
+      }
+    ],
+    "skill": "Spearcall Ritual",
+    "stats": {
+      "weight": 6.5,
+      "physical": 99,
+      "magic": 64,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 67,
+    "weapon": "Death's Poker",
+    "tier": "D",
+    "type": "greatsword",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "int": "E"
+      }
+    ],
+    "skill": "Ghostflame Ignition",
+    "stats": {
+      "weight": 8.5,
+      "physical": 123,
+      "magic": 36,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 68,
+    "weapon": "Demi-Human Queen's Staff",
+    "tier": "B",
+    "type": "glintstone staff",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "int": "C"
+      }
+    ],
+    "skill": null,
+    "stats": {
+      "weight": 3,
+      "physical": 31,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 69,
+    "weapon": "Devourer's Scepter",
+    "tier": "A",
+    "type": "warhammer",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": "Devourer of Worlds",
+    "stats": {
+      "weight": 11.5,
+      "physical": 107,
+      "magic": 0,
+      "fire": 69,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 70,
+    "weapon": "Digger's Staff",
+    "tier": "E",
+    "type": "glintstone staff",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "int": "C"
+      }
+    ],
+    "skill": null,
+    "stats": {
+      "weight": 4.5,
+      "physical": 38,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 71,
+    "weapon": "Dismounter",
+    "tier": "E",
+    "type": "curved greatsword",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Spinning Slash",
+    "stats": {
+      "weight": 10,
+      "physical": 138,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 72,
+    "weapon": "Dragon Communion Seal",
+    "tier": "S",
+    "type": "sacred seal",
+    "scaling": [
+      {
+        "fai": "D"
+      },
+      {
+        "arc": "C"
+      }
+    ],
+    "skill": "",
+    "stats": {
+      "weight": 0,
+      "physical": 25,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 73,
+    "weapon": "Dragon Greatclaw",
+    "tier": "A",
+    "type": "colossal weapon",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Endure",
+    "stats": {
+      "weight": 16,
+      "physical": 120,
+      "magic": 0,
+      "fire": 0,
+      "light": 78,
+      "holy": 0
+    }
+  },
+  {
+    "id": 74,
+    "weapon": "Dragon Halberd",
+    "tier": "E",
+    "type": "halberd",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Spinning Slash",
+    "stats": {
+      "weight": 10.5,
+      "physical": 135,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 75,
+    "weapon": "Dragon King's Cragblade",
+    "tier": "A",
+    "type": "heavy thrusting sword",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Thundercloud Form",
+    "stats": {
+      "weight": 8,
+      "physical": 92,
+      "magic": 0,
+      "fire": 0,
+      "light": 59,
+      "holy": 0
+    }
+  },
+  {
+    "id": 76,
+    "weapon": "Dragonscale Blade",
+    "tier": "F",
+    "type": "katana",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "C"
+      }
+    ],
+    "skill": "Ice Lightning Sword",
+    "stats": {
+      "weight": 5.5,
+      "physical": 110,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 77,
+    "weapon": "Duelist Greataxe",
+    "tier": "C",
+    "type": "colossal weapon",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Endure",
+    "stats": {
+      "weight": 20,
+      "physical": 170,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 78,
+    "weapon": "Eclipse Shotel",
+    "tier": "A",
+    "type": "curved sword",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": "Death Flare",
+    "stats": {
+      "weight": 3,
+      "physical": 77,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 77
+    }
+  },
+  {
+    "id": 79,
+    "weapon": "Eleonora's Poleblade",
+    "tier": "E",
+    "type": "twinblades",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "arc": "D"
+      }
+    ],
+    "skill": "Bloodblade Dance",
+    "stats": {
+      "weight": 2.5,
+      "physical": 72,
+      "magic": 0,
+      "fire": 72,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 80,
+    "weapon": "Envoy's Greathorn",
+    "tier": "A",
+    "type": "colossal weapon",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "fai": "E"
+      }
+    ],
+    "skill": "Great Oracular Bubble",
+    "stats": {
+      "weight": 19.5,
+      "physical": 121,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 78
+    }
+  },
+  {
+    "id": 81,
+    "weapon": "Envoy's Horn",
+    "tier": "A",
+    "type": "hammer",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": "Oracular Bubble",
+    "stats": {
+      "weight": 4,
+      "physical": 96,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 62
+    }
+  },
+  {
+    "id": 82,
+    "weapon": "Envoy's Long Horn",
+    "tier": "A",
+    "type": "warhammer",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": "Bubble Shower",
+    "stats": {
+      "weight": 9.5,
+      "physical": 120,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 78
+    }
+  },
+  {
+    "id": 83,
+    "weapon": "Erdsteel Dagger",
+    "tier": "F",
+    "type": "dagger",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": "Quickstep",
+    "stats": {
+      "weight": 2,
+      "physical": 67,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 84,
+    "weapon": "Erdtree Bow",
+    "tier": "S",
+    "type": "light bow",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "E"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": "Mighty Shot",
+    "stats": {
+      "weight": 4,
+      "physical": 40,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 50
+    }
+  },
+  {
+    "id": 85,
+    "weapon": "Erdtree Greatbow",
+    "tier": "D",
+    "type": "great bow",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "E"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": "Through and Through",
+    "stats": {
+      "weight": 11,
+      "physical": 60,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 65
+    }
+  },
+  {
+    "id": 86,
+    "weapon": "Erdtree Seal",
+    "tier": "F",
+    "type": "sacred seal",
+    "scaling": [
+      {
+        "fai": "C"
+      }
+    ],
+    "skill": null,
+    "stats": {
+      "weight": 0,
+      "physical": 25,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 15
+    }
+  },
+  {
+    "id": 87,
+    "weapon": "Estoc",
+    "tier": "E",
+    "type": "thrusting sword",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "C"
+      }
+    ],
+    "skill": "Impaling Thrust",
+    "stats": {
+      "weight": 4.5,
+      "physical": 107,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 88,
+    "weapon": "Executioner's Greataxe",
+    "tier": "A",
+    "type": "great axe",
+    "scaling": [
+      {
+        "str": "C"
+      },
+      {
+        "dex": "E"
+      }
+    ],
+    "skill": "War Cry",
+    "stats": {
+      "weight": 15,
+      "physical": 150,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 89,
+    "weapon": "Falchion",
+    "tier": "D",
+    "type": "curved sword",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Spinning Slash",
+    "stats": {
+      "weight": 3.5,
+      "physical": 109,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 90,
+    "weapon": "Fallingstar Beast Jaw",
+    "tier": "S",
+    "type": "colossal weapon",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "int": "E"
+      }
+    ],
+    "skill": "Gravity Bolt",
+    "stats": {
+      "weight": 21.5,
+      "physical": 131,
+      "magic": 85,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 91,
+    "weapon": "Family Heads",
+    "tier": "A",
+    "type": "flail",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "C"
+      },
+      {
+        "int": "E"
+      }
+    ],
+    "skill": "Familial Rancor",
+    "stats": {
+      "weight": 5.5,
+      "physical": 87,
+      "magic": 56,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 92,
+    "weapon": "Finger Seal",
+    "tier": "C",
+    "type": "sacred seal",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "fai": "C"
+      }
+    ],
+    "skill": null,
+    "stats": {
+      "weight": 1.5,
+      "physical": 25,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 93,
+    "weapon": "Flail",
+    "tier": "D",
+    "type": "flail",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Spinning Chain",
+    "stats": {
+      "weight": 5,
+      "physical": 109,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 94,
+    "weapon": "Flamberge",
+    "tier": "F",
+    "type": "greatsword",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "C"
+      }
+    ],
+    "skill": "Stamp (Upward Cut)",
+    "stats": {
+      "weight": 10,
+      "physical": 129,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 95,
+    "weapon": "Flowing Curved Sword",
+    "tier": "D",
+    "type": "curved sword",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Spinning Slash",
+    "stats": {
+      "weight": 3.5,
+      "physical": 109,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 96,
+    "weapon": "Forked Greatsword",
+    "tier": "F",
+    "type": "greatsword",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Stamp (Upward Cut)",
+    "stats": {
+      "weight": 9,
+      "physical": 124,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 97,
+    "weapon": "Forked Hatchet",
+    "tier": "F",
+    "type": "axe",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Quickstep",
+    "stats": {
+      "weight": 2.5,
+      "physical": 101,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 98,
+    "weapon": "Frenzied Flame Seal",
+    "tier": "S",
+    "type": "sacred seal",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "E"
+      },
+      {
+        "int": "E"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": null,
+    "stats": {
+      "weight": 0,
+      "physical": 25,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 99,
+    "weapon": "Frozen Needle",
+    "tier": "B",
+    "type": "thrusting sword",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Impaling Thrust",
+    "stats": {
+      "weight": 2.5,
+      "physical": 99,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 100,
+    "weapon": "Full Moon Crossbow",
+    "tier": "S",
+    "type": "crossbow",
+    "scaling": [{}],
+    "skill": "Kick",
+    "stats": {
+      "weight": 2.5,
+      "physical": 50,
+      "magic": 50,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 101,
+    "weapon": "Gargoyle's Black Axe",
+    "tier": "B",
+    "type": "axe",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "E"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": "War Cry",
+    "stats": {
+      "weight": 8.5,
+      "physical": 100,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 120
+    }
+  },
+  {
+    "id": 102,
+    "weapon": "Gargoyle's Black Halberd",
+    "tier": "B",
+    "type": "halberd",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "E"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": "Spinning Slash",
+    "stats": {
+      "weight": 12,
+      "physical": 103,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 123
+    }
+  },
+  {
+    "id": 103,
+    "weapon": "Gargoyle's Blackblade",
+    "tier": "B",
+    "type": "twinblades",
+    "scaling": [
+      {
+        "str": "C"
+      },
+      {
+        "dex": "E"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": "Spinning Slash",
+    "stats": {
+      "weight": 8.5,
+      "physical": 81,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 97
+    }
+  },
+  {
+    "id": 104,
+    "weapon": "Gargoyle's Great Axe",
+    "tier": "F",
+    "type": "great axe",
+    "scaling": [
+      {
+        "str": "C"
+      },
+      {
+        "dex": "E"
+      }
+    ],
+    "skill": "War Cry",
+    "stats": {
+      "weight": 0,
+      "physical": 123,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 105,
+    "weapon": "Gargoyle's Greatsword",
+    "tier": "F",
+    "type": "greatsword",
+    "scaling": [
+      {
+        "str": "C"
+      },
+      {
+        "dex": "E"
+      }
+    ],
+    "skill": "Vacuum Slice",
+    "stats": {
+      "weight": 11.5,
+      "physical": 133,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 106,
+    "weapon": "Gargoyle's Halberd",
+    "tier": "E",
+    "type": "halberd",
+    "scaling": [
+      {
+        "str": "C"
+      },
+      {
+        "dex": "E"
+      }
+    ],
+    "skill": "Spinning Slash",
+    "stats": {
+      "weight": 12,
+      "physical": 131,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 107,
+    "weapon": "Gargoyle's Twinblade",
+    "tier": "F",
+    "type": "twinblades",
+    "scaling": [
+      {
+        "str": "C"
+      },
+      {
+        "dex": "E"
+      }
+    ],
+    "skill": "Spinning Slash",
+    "stats": {
+      "weight": 8.5,
+      "physical": 123,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 108,
+    "weapon": "Gelmir Glintstone Staff",
+    "tier": "B",
+    "type": "glintstone staff",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "int": "D"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": null,
+    "stats": {
+      "weight": 2.5,
+      "physical": 29,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 109,
+    "weapon": "Ghiza's Wheel",
+    "tier": "D",
+    "type": "colossal weapon",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Spinning Wheel",
+    "stats": {
+      "weight": 19,
+      "physical": 156,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 110,
+    "weapon": "Ghostflame Torch",
+    "tier": "B",
+    "type": "torchs",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "E"
+      },
+      {
+        "int": "D"
+      }
+    ],
+    "skill": "Torch Attack",
+    "stats": {
+      "weight": 2.5,
+      "physical": 50,
+      "magic": 90,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 111,
+    "weapon": "Giant's Red Braid",
+    "tier": "A",
+    "type": "whip",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": "Flame Dance",
+    "stats": {
+      "weight": 2.5,
+      "physical": 82,
+      "magic": 0,
+      "fire": 53,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 112,
+    "weapon": "Giant's Seal",
+    "tier": "S",
+    "type": "sacred seal",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "fai": "C"
+      }
+    ],
+    "skill": null,
+    "stats": {
+      "weight": 1.5,
+      "physical": 25,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 113,
+    "weapon": "Giant-Crusher",
+    "tier": "D",
+    "type": "colossal weapon",
+    "scaling": [
+      {
+        "str": "C"
+      }
+    ],
+    "skill": "Endure",
+    "stats": {
+      "weight": 26.5,
+      "physical": 155,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 114,
+    "weapon": "Glaive",
+    "tier": "E",
+    "type": "halberd",
+    "scaling": [{}],
+    "skill": "Spinning Slash",
+    "stats": {
+      "weight": 10,
+      "physical": 132,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 115,
+    "weapon": "Glintstone Kris",
+    "tier": "B",
+    "type": "dagger",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "int": "D"
+      }
+    ],
+    "skill": "Glintstone Dart",
+    "stats": {
+      "weight": 1.5,
+      "physical": 57,
+      "magic": 68,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 116,
+    "weapon": "Glintstone Staff",
+    "tier": "D",
+    "type": "glintstone staff",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "int": "C"
+      }
+    ],
+    "skill": null,
+    "stats": {
+      "weight": 3,
+      "physical": 25,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 117,
+    "weapon": "Godskin Peeler",
+    "tier": "F",
+    "type": "twinblades",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "C"
+      }
+    ],
+    "skill": "Black Flame Tornado",
+    "stats": {
+      "weight": 8,
+      "physical": 121,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 118,
+    "weapon": "Godskin Stitcher",
+    "tier": "E",
+    "type": "heavy thrusting sword",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Impaling Thrust",
+    "stats": {
+      "weight": 7,
+      "physical": 127,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 119,
+    "weapon": "Godslayer's Greatsword",
+    "tier": "S",
+    "type": "colossal sword",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": "The Queen's Black Flame",
+    "stats": {
+      "weight": 17.5,
+      "physical": 119,
+      "magic": 0,
+      "fire": 77,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 120,
+    "weapon": "Godslayer's Seal",
+    "tier": "A",
+    "type": "sacred seal",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "fai": "C"
+      }
+    ],
+    "skill": null,
+    "stats": {
+      "weight": 1.5,
+      "physical": 25,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 121,
+    "weapon": "Golden Halberd",
+    "tier": "A",
+    "type": "halberd",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "E"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": "Golden Vow",
+    "stats": {
+      "weight": 13.5,
+      "physical": 134,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 87
+    }
+  },
+  {
+    "id": 122,
+    "weapon": "Golden Order Greatsword",
+    "tier": "B",
+    "type": "greatsword",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "fai": "C"
+      }
+    ],
+    "skill": "Establishing Order",
+    "stats": {
+      "weight": 10,
+      "physical": 86,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 103
+    }
+  },
+  {
+    "id": 123,
+    "weapon": "Golden Order Seal",
+    "tier": "A",
+    "type": "sacred seal",
+    "scaling": [
+      {
+        "int": "D"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": null,
+    "stats": {
+      "weight": 0,
+      "physical": 24,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 124,
+    "weapon": "Golem Greatbow",
+    "tier": "B",
+    "type": "great bow",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "E"
+      }
+    ],
+    "skill": "Through and Through",
+    "stats": {
+      "weight": 14.5,
+      "physical": 130,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 125,
+    "weapon": "Golem's Halberd",
+    "tier": "D",
+    "type": "halberd",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Charge Forth",
+    "stats": {
+      "weight": 21.5,
+      "physical": 158,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 126,
+    "weapon": "Grafted Blade Greatsword",
+    "tier": "A",
+    "type": "colossal sword",
+    "scaling": [
+      {
+        "str": "C"
+      },
+      {
+        "dex": "E"
+      }
+    ],
+    "skill": "Oath of Vengeance",
+    "stats": {
+      "weight": 21,
+      "physical": 157,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 127,
+    "weapon": "Grafted Dragon",
+    "tier": "A",
+    "type": "fist",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": "Bear Witness!",
+    "stats": {
+      "weight": 2.5,
+      "physical": 89,
+      "magic": 0,
+      "fire": 57,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 128,
+    "weapon": "Grave Scythe",
+    "tier": "C",
+    "type": "reaper",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Spinning Slash",
+    "stats": {
+      "weight": 9.5,
+      "physical": 144,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 129,
+    "weapon": "Gravel Stone Seal",
+    "tier": "A",
+    "type": "sacred seal",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "fai": "C"
+      }
+    ],
+    "skill": null,
+    "stats": {
+      "weight": 1.5,
+      "physical": 25,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 130,
+    "weapon": "Great Club",
+    "tier": "D",
+    "type": "colossal weapon",
+    "scaling": [
+      {
+        "str": "C"
+      }
+    ],
+    "skill": "Golden Land",
+    "stats": {
+      "weight": 17,
+      "physical": 154,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 131,
+    "weapon": "Great Epee",
+    "tier": "F",
+    "type": "heavy thrusting sword",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Impaling Thrust",
+    "stats": {
+      "weight": 6.5,
+      "physical": 124,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 132,
+    "weapon": "Great Knife",
+    "tier": "F",
+    "type": "dagger",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Quickstep",
+    "stats": {
+      "weight": 1.5,
+      "physical": 75,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 133,
+    "weapon": "Great Mace",
+    "tier": "E",
+    "type": "warhammer",
+    "scaling": [
+      {
+        "str": "C"
+      }
+    ],
+    "skill": "Endure",
+    "stats": {
+      "weight": 11.5,
+      "physical": 134,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 134,
+    "weapon": "Great Omenkiller Cleaver",
+    "tier": "B",
+    "type": "great axe",
+    "scaling": [{}],
+    "skill": "",
+    "stats": {
+      "weight": 11,
+      "physical": 142,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 135,
+    "weapon": "Great Stars",
+    "tier": "D",
+    "type": "warhammer",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Endure",
+    "stats": {
+      "weight": 10,
+      "physical": 135,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 136,
+    "weapon": "Greataxe",
+    "tier": "B",
+    "type": "great axe",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Barbaric Roar",
+    "stats": {
+      "weight": 13,
+      "physical": 151,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 137,
+    "weapon": "Greatbow",
+    "tier": "D",
+    "type": "great bow",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Through and Through",
+    "stats": {
+      "weight": 10,
+      "physical": 125,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 138,
+    "weapon": "Greathorn Hammer",
+    "tier": "E",
+    "type": "warhammer",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Barbaric Roar",
+    "stats": {
+      "weight": 10,
+      "physical": 134,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 139,
+    "weapon": "Greatsword",
+    "tier": "E",
+    "type": "colossal sword",
+    "scaling": [
+      {
+        "str": "C"
+      },
+      {
+        "dex": "E"
+      }
+    ],
+    "skill": "Stamp (Upward Cut)",
+    "stats": {
+      "weight": 23,
+      "physical": 164,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 140,
+    "weapon": "Grossmesser",
+    "tier": "C",
+    "type": "curved sword",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Spinning Slash",
+    "stats": {
+      "weight": 4.5,
+      "physical": 115,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 141,
+    "weapon": "Guardian's Swordspear",
+    "tier": "E",
+    "type": "halberd",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "C"
+      }
+    ],
+    "skill": "Spinning Slash",
+    "stats": {
+      "weight": 9,
+      "physical": 139,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 142,
+    "weapon": "Halberd",
+    "tier": "F",
+    "type": "halberd",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Charge Forth",
+    "stats": {
+      "weight": 8,
+      "physical": 125,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 143,
+    "weapon": "Halo Scythe",
+    "tier": "A",
+    "type": "reaper",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "fai": "E"
+      }
+    ],
+    "skill": "Miquella's Ring of Light",
+    "stats": {
+      "weight": 8.5,
+      "physical": 118,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 76
+    }
+  },
+  {
+    "id": 144,
+    "weapon": "Hammer",
+    "tier": "B",
+    "type": "hammer",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Kick",
+    "stats": {
+      "weight": 6.5,
+      "physical": 124,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 145,
+    "weapon": "Hand Axe",
+    "tier": "F",
+    "type": "axe",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Quickstep",
+    "stats": {
+      "weight": 3.5,
+      "physical": 113,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 146,
+    "weapon": "Hand Ballista",
+    "tier": "F",
+    "type": "ballista",
+    "scaling": [
+      {
+        "str": "?:"
+      },
+      {
+        "dex": "?:"
+      }
+    ],
+    "skill": "Kick",
+    "stats": {
+      "weight": 10,
+      "physical": 135,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 147,
+    "weapon": "Hand of Malenia",
+    "tier": "A",
+    "type": "katana",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "B"
+      }
+    ],
+    "skill": "Waterfowl Dance",
+    "stats": {
+      "weight": 7,
+      "physical": 117,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 148,
+    "weapon": "Harp Bow",
+    "tier": "F",
+    "type": "light bow",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "E"
+      }
+    ],
+    "skill": "Barrage",
+    "stats": {
+      "weight": 2,
+      "physical": 62,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 149,
+    "weapon": "Heavy Crossbow",
+    "tier": "F",
+    "type": "crossbow",
+    "scaling": [{}],
+    "skill": "Kick",
+    "stats": {
+      "weight": 6.5,
+      "physical": 64,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 150,
+    "weapon": "Helphen's Steeple",
+    "tier": "A",
+    "type": "greatsword",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "E"
+      },
+      {
+        "int": "D"
+      }
+    ],
+    "skill": "Ruinous Ghostflame",
+    "stats": {
+      "weight": 11.5,
+      "physical": 101,
+      "magic": 101,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 151,
+    "weapon": "Highland Axe",
+    "tier": "E",
+    "type": "axe",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "War Cry",
+    "stats": {
+      "weight": 4.5,
+      "physical": 123,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 152,
+    "weapon": "Hookclaws",
+    "tier": "E",
+    "type": "claw",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "C"
+      }
+    ],
+    "skill": "Quickstep",
+    "stats": {
+      "weight": 2,
+      "physical": 89,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 153,
+    "weapon": "Horn Bow",
+    "tier": "A",
+    "type": "light bow",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Mighty Shot",
+    "stats": {
+      "weight": 4.5,
+      "physical": 65,
+      "magic": 30,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 154,
+    "weapon": "Hoslow's Petal Whip",
+    "tier": "C",
+    "type": "whip",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Kick",
+    "stats": {
+      "weight": 3.5,
+      "physical": 110,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 155,
+    "weapon": "Icerind Hatchet",
+    "tier": "F",
+    "type": "axe",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Hoarfrost Stomp",
+    "stats": {
+      "weight": 3,
+      "physical": 111,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 156,
+    "weapon": "Inquisitor's Girandole",
+    "tier": "A",
+    "type": "spear",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": "Charge Forth",
+    "stats": {
+      "weight": 7.5,
+      "physical": 102,
+      "magic": 0,
+      "fire": 66,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 157,
+    "weapon": "Inseparable Sword",
+    "tier": "A",
+    "type": "greatsword",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "fai": "C"
+      }
+    ],
+    "skill": "Sacred Blade",
+    "stats": {
+      "weight": 10,
+      "physical": 98,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 98
+    }
+  },
+  {
+    "id": 158,
+    "weapon": "Iron Ball",
+    "tier": "F",
+    "type": "fist",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "E"
+      }
+    ],
+    "skill": "Braggart's Roar",
+    "stats": {
+      "weight": 2.5,
+      "physical": 101,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 159,
+    "weapon": "Iron Cleaver",
+    "tier": "E",
+    "type": "axe",
+    "scaling": [
+      {
+        "str": "C"
+      },
+      {
+        "dex": "E"
+      }
+    ],
+    "skill": "Wild Strikes",
+    "stats": {
+      "weight": 6,
+      "physical": 120,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 160,
+    "weapon": "Iron Greatsword",
+    "tier": "E",
+    "type": "greatsword",
+    "scaling": [{}],
+    "skill": "",
+    "stats": {
+      "weight": 12,
+      "physical": 149,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 161,
+    "weapon": "Iron Spear",
+    "tier": "D",
+    "type": "spear",
+    "scaling": [{}],
+    "skill": "",
+    "stats": {
+      "weight": 0,
+      "physical": 114,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 162,
+    "weapon": "Ivory Sickle",
+    "tier": "B",
+    "type": "dagger",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "int": "D"
+      }
+    ],
+    "skill": "Quickstep",
+    "stats": {
+      "weight": 2,
+      "physical": 60,
+      "magic": 60,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 163,
+    "weapon": "Jar Cannon",
+    "tier": "C",
+    "type": "ballista",
+    "scaling": [
+      {
+        "str": "?"
+      },
+      {
+        "dex": "?"
+      }
+    ],
+    "skill": "Kick",
+    "stats": {
+      "weight": 15,
+      "physical": 192,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 164,
+    "weapon": "Jawbone Axe",
+    "tier": "E",
+    "type": "axe",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "E"
+      }
+    ],
+    "skill": "Wild Strikes",
+    "stats": {
+      "weight": 5.5,
+      "physical": 124,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 165,
+    "weapon": "Katar",
+    "tier": "F",
+    "type": "fist",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Impaling Thrust",
+    "stats": {
+      "weight": 2.5,
+      "physical": 97,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 166,
+    "weapon": "Knight's Greatsword",
+    "tier": "F",
+    "type": "greatsword",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Stamp (Upward Cut)",
+    "stats": {
+      "weight": 10,
+      "physical": 141,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 167,
+    "weapon": "Lance",
+    "tier": "F",
+    "type": "great spear",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Charge Forth",
+    "stats": {
+      "weight": 10.5,
+      "physical": 110,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 168,
+    "weapon": "Large Club",
+    "tier": "E",
+    "type": "warhammer",
+    "scaling": [
+      {
+        "str": "C"
+      }
+    ],
+    "skill": "Barbaric Roar",
+    "stats": {
+      "weight": 8.5,
+      "physical": 131,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 169,
+    "weapon": "Lazuli Glintstone Sword",
+    "tier": "A",
+    "type": "straight sword",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "E"
+      },
+      {
+        "int": "D"
+      }
+    ],
+    "skill": "Glinstone Pebble",
+    "stats": {
+      "weight": 3.5,
+      "physical": 79,
+      "magic": 94,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 170,
+    "weapon": "Light Crossbow",
+    "tier": "F",
+    "type": "crossbow",
+    "scaling": [{}],
+    "skill": "Kick",
+    "stats": {
+      "weight": 4,
+      "physical": 58,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 171,
+    "weapon": "Lion Greatbow",
+    "tier": "S",
+    "type": "great bow",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Radahn's Rain",
+    "stats": {
+      "weight": 8.5,
+      "physical": 120,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 172,
+    "weapon": "Longbow",
+    "tier": "D",
+    "type": "light bow",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Mighty Shot",
+    "stats": {
+      "weight": 4,
+      "physical": 80,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 173,
+    "weapon": "Longhaft Axe",
+    "tier": "C",
+    "type": "great axe",
+    "scaling": [{}],
+    "skill": "",
+    "stats": {
+      "weight": 12.5,
+      "physical": 146,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 174,
+    "weapon": "Longsword",
+    "tier": "F",
+    "type": "straight sword",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Square Off",
+    "stats": {
+      "weight": 3.5,
+      "physical": 110,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 175,
+    "weapon": "Lordsworn's Greatsword",
+    "tier": "F",
+    "type": "greatsword",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Stamp (Upward Cut)",
+    "stats": {
+      "weight": 9,
+      "physical": 136,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 176,
+    "weapon": "Lordsworn's Straight Sword",
+    "tier": "F",
+    "type": "straight sword",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Square Off",
+    "stats": {
+      "weight": 3.5,
+      "physical": 115,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 177,
+    "weapon": "Loretta's War Sickle",
+    "tier": "B",
+    "type": "halberd",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "int": "D"
+      }
+    ],
+    "skill": "Loretta's Slash",
+    "stats": {
+      "weight": 10,
+      "physical": 110,
+      "magic": 71,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 178,
+    "weapon": "Lucerne",
+    "tier": "F",
+    "type": "halberd",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "C"
+      }
+    ],
+    "skill": "Charge Forth",
+    "stats": {
+      "weight": 7,
+      "physical": 121,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 179,
+    "weapon": "Lusat's Glintstone Staff",
+    "tier": "S",
+    "type": "glintstone staff",
+    "scaling": [
+      {
+        "str": "C"
+      },
+      {
+        "int": "S"
+      }
+    ],
+    "skill": null,
+    "stats": {
+      "weight": 4,
+      "physical": 55,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 180,
+    "weapon": "Mace",
+    "tier": "C",
+    "type": "hammer",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Kick",
+    "stats": {
+      "weight": 4.5,
+      "physical": 115,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 181,
+    "weapon": "Magma Blade",
+    "tier": "A",
+    "type": "curved sword",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": "Magma Shower",
+    "stats": {
+      "weight": 4,
+      "physical": 96,
+      "magic": 0,
+      "fire": 62,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 182,
+    "weapon": "Magma Whip Candlestick",
+    "tier": "B",
+    "type": "whip",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": "Sea of Magma",
+    "stats": {
+      "weight": 2.5,
+      "physical": 72,
+      "magic": 0,
+      "fire": 72,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 183,
+    "weapon": "Magma Wyrm's Scalesword",
+    "tier": "A",
+    "type": "curved greatsword",
+    "scaling": [
+      {
+        "str": "C"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": "Magma Guillotine",
+    "stats": {
+      "weight": 15,
+      "physical": 114,
+      "magic": 0,
+      "fire": 74,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 184,
+    "weapon": "Maliketh's Black Blade",
+    "tier": "F",
+    "type": "colossal sword",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "E"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": "Destined Death",
+    "stats": {
+      "weight": 22,
+      "physical": 127,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 185,
+    "weapon": "Mantis Blade",
+    "tier": "D",
+    "type": "curved sword",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Spinning Slash",
+    "stats": {
+      "weight": 4,
+      "physical": 112,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 186,
+    "weapon": "Marais Executioner's Sword",
+    "tier": "A",
+    "type": "greatsword",
+    "scaling": [
+      {
+        "str": "C"
+      },
+      {
+        "dex": "E"
+      },
+      {
+        "arc": "D"
+      }
+    ],
+    "skill": "Eochaid's Dancing Blade",
+    "stats": {
+      "weight": 11.5,
+      "physical": 94,
+      "magic": 61,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 187,
+    "weapon": "Marika's Hammer",
+    "tier": "B",
+    "type": "hammer",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": "Gold Breaker",
+    "stats": {
+      "weight": 6,
+      "physical": 101,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 65
+    }
+  },
+  {
+    "id": 188,
+    "weapon": "Meteoric Ore Blade",
+    "tier": "S",
+    "type": "katana",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "int": "D"
+      }
+    ],
+    "skill": "Gravitas",
+    "stats": {
+      "weight": 7.5,
+      "physical": 112,
+      "magic": 72,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 189,
+    "weapon": "Meteorite Staff",
+    "tier": "B",
+    "type": "glintstone staff",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "int": "S"
+      }
+    ],
+    "skill": null,
+    "stats": {
+      "weight": 4.5,
+      "physical": 39,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 190,
+    "weapon": "Miquellan Knight's Sword",
+    "tier": "A",
+    "type": "straight sword",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "fai": "E"
+      }
+    ],
+    "skill": "Sacred Blade",
+    "stats": {
+      "weight": 3.5,
+      "physical": 105,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 68
+    }
+  },
+  {
+    "id": 191,
+    "weapon": "Misbegotten Shortbow",
+    "tier": "F",
+    "type": "light bow",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "E"
+      }
+    ],
+    "skill": "Barrage",
+    "stats": {
+      "weight": 3,
+      "physical": 68,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 192,
+    "weapon": "Misericorde",
+    "tier": "D",
+    "type": "dagger",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Quickstep",
+    "stats": {
+      "weight": 2,
+      "physical": 92,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 193,
+    "weapon": "Mohgwyn's Sacred Spear",
+    "tier": "C",
+    "type": "great spear",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "arc": "D"
+      },
+      {
+        "dex": "E"
+      }
+    ],
+    "skill": "Bloodboon Ritual",
+    "stats": {
+      "weight": 10,
+      "physical": 96,
+      "magic": 0,
+      "fire": 62,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 194,
+    "weapon": "Monk's Flameblade",
+    "tier": "E",
+    "type": "curved greatsword",
+    "scaling": [{}],
+    "skill": "",
+    "stats": {
+      "weight": 9,
+      "physical": 134,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 195,
+    "weapon": "Monk's Flamemace",
+    "tier": "B",
+    "type": "hammer",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Kick",
+    "stats": {
+      "weight": 6,
+      "physical": 126,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 196,
+    "weapon": "Moonveil",
+    "tier": "S",
+    "type": "katana",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "int": "C"
+      }
+    ],
+    "skill": "Transient Moonlight",
+    "stats": {
+      "weight": 6.5,
+      "physical": 73,
+      "magic": 87,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 197,
+    "weapon": "Morgott's Cursed Sword",
+    "tier": "A",
+    "type": "curved greatsword",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "C"
+      }
+    ],
+    "skill": "Cursed-Blood Slice",
+    "stats": {
+      "weight": 7.5,
+      "physical": 123,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 198,
+    "weapon": "Morning Star",
+    "tier": "C",
+    "type": "hammer",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Kick",
+    "stats": {
+      "weight": 5,
+      "physical": 118,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 199,
+    "weapon": "Nagakiba",
+    "tier": "F",
+    "type": "katana",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "C"
+      }
+    ],
+    "skill": "Piercing Fang",
+    "stats": {
+      "weight": 7,
+      "physical": 104,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 200,
+    "weapon": "Nightrider Flail",
+    "tier": "D",
+    "type": "flail",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "C"
+      }
+    ],
+    "skill": "Spinning Chain",
+    "stats": {
+      "weight": 6,
+      "physical": 112,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 201,
+    "weapon": "Nightrider Glaive",
+    "tier": "F",
+    "type": "halberd",
+    "scaling": [
+      {
+        "str": "C"
+      },
+      {
+        "dex": "E"
+      }
+    ],
+    "skill": "Spinning Slash",
+    "stats": {
+      "weight": 12,
+      "physical": 129,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 202,
+    "weapon": "Noble's Estoc",
+    "tier": "F",
+    "type": "thrusting sword",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Impaling Thrust",
+    "stats": {
+      "weight": 3.5,
+      "physical": 104,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 203,
+    "weapon": "Noble's Slender Sword",
+    "tier": "F",
+    "type": "straight sword",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "C"
+      }
+    ],
+    "skill": "Square Off",
+    "stats": {
+      "weight": 3.5,
+      "physical": 101,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 204,
+    "weapon": "Nox Flowing Hammer",
+    "tier": "B",
+    "type": "hammer",
+    "scaling": [
+      {
+        "str": "C"
+      },
+      {
+        "dex": "E"
+      }
+    ],
+    "skill": "Silver Scourge",
+    "stats": {
+      "weight": 6.5,
+      "physical": 122,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 205,
+    "weapon": "Nox Flowing Sword",
+    "tier": "D",
+    "type": "curved sword",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Flowing Form",
+    "stats": {
+      "weight": 3.5,
+      "physical": 112,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 206,
+    "weapon": "Omen Cleaver",
+    "tier": "D",
+    "type": "curved greatsword",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Spinning Slash",
+    "stats": {
+      "weight": 11.5,
+      "physical": 142,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 207,
+    "weapon": "Onyx Lord's Greatsword",
+    "tier": "S",
+    "type": "curved greatsword",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "E"
+      },
+      {
+        "int": "D"
+      }
+    ],
+    "skill": "Onyx Lord's Repulsion",
+    "stats": {
+      "weight": 11.5,
+      "physical": 118,
+      "magic": 76,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 208,
+    "weapon": "Ordovis's Greatsword",
+    "tier": "C",
+    "type": "greatsword",
+    "scaling": [
+      {
+        "str": "C"
+      },
+      {
+        "dex": "E"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": "Ordovis's Vortex",
+    "stats": {
+      "weight": 12,
+      "physical": 107,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 69
+    }
+  },
+  {
+    "id": 209,
+    "weapon": "Ornamental Straight Sword",
+    "tier": "F",
+    "type": "straight sword",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Golden Tempering",
+    "stats": {
+      "weight": 3,
+      "physical": 101,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 210,
+    "weapon": "Parrying Dagger",
+    "tier": "F",
+    "type": "dagger",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "C"
+      }
+    ],
+    "skill": "Parry",
+    "stats": {
+      "weight": 1.5,
+      "physical": 75,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 211,
+    "weapon": "Partisan",
+    "tier": "D",
+    "type": "spear",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Impaling Thrust",
+    "stats": {
+      "weight": 6.5,
+      "physical": 123,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 212,
+    "weapon": "Pest's Glaive",
+    "tier": "F",
+    "type": "halberd",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Spinning Slash",
+    "stats": {
+      "weight": 7,
+      "physical": 120,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 213,
+    "weapon": "Pickaxe",
+    "tier": "D",
+    "type": "warhammer",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Endure",
+    "stats": {
+      "weight": 10,
+      "physical": 144,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 214,
+    "weapon": "Pike",
+    "tier": "D",
+    "type": "spear",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Charge Forth",
+    "stats": {
+      "weight": 7.5,
+      "physical": 115,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 215,
+    "weapon": "Prelate's Inferno Crozier",
+    "tier": "A",
+    "type": "colossal weapon",
+    "scaling": [
+      {
+        "str": "C"
+      },
+      {
+        "dex": "E"
+      }
+    ],
+    "skill": "Prelate's Charge",
+    "stats": {
+      "weight": 23.5,
+      "physical": 156,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 216,
+    "weapon": "Prince of Death's Staff",
+    "tier": "E",
+    "type": "glintstone staff",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "int": "D"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": null,
+    "stats": {
+      "weight": 3,
+      "physical": 25,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 217,
+    "weapon": "Pulley Bow",
+    "tier": "D",
+    "type": "light bow",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Mighty Shot",
+    "stats": {
+      "weight": 5,
+      "physical": 77,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 218,
+    "weapon": "Pulley Crossbow",
+    "tier": "F",
+    "type": "crossbow",
+    "scaling": [{}],
+    "skill": "Kick",
+    "stats": {
+      "weight": 4,
+      "physical": 65,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 219,
+    "weapon": "Rapier",
+    "tier": "F",
+    "type": "thrusting sword",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "C"
+      }
+    ],
+    "skill": "Impaling Thrust",
+    "stats": {
+      "weight": 2.5,
+      "physical": 96,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 220,
+    "weapon": "Raptor Talons",
+    "tier": "F",
+    "type": "claw",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "C"
+      }
+    ],
+    "skill": "Quickstep",
+    "stats": {
+      "weight": 1.5,
+      "physical": 83,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 221,
+    "weapon": "Red Branch Shortbow",
+    "tier": "F",
+    "type": "light bow",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Barrage",
+    "stats": {
+      "weight": 2.5,
+      "physical": 65,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 222,
+    "weapon": "Reduvia",
+    "tier": "B",
+    "type": "dagger",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "arc": "D"
+      }
+    ],
+    "skill": "Blood Blade",
+    "stats": {
+      "weight": 2.5,
+      "physical": 79,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 223,
+    "weapon": "Regalia of Eochaid",
+    "tier": "C",
+    "type": "straight sword",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "arc": "D"
+      }
+    ],
+    "skill": "Eochaid's Dancing Blade",
+    "stats": {
+      "weight": 5.5,
+      "physical": 89,
+      "magic": 57,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 224,
+    "weapon": "Ringed Finger",
+    "tier": "B",
+    "type": "hammer",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Claw Flick",
+    "stats": {
+      "weight": 4.5,
+      "physical": 121,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 225,
+    "weapon": "Ripple Blade",
+    "tier": "F",
+    "type": "axe",
+    "scaling": [
+      {
+        "arc": "A"
+      }
+    ],
+    "skill": "Wild Strkes",
+    "stats": {
+      "weight": 4.5,
+      "physical": 70,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 226,
+    "weapon": "Ripple Crescent Halberd",
+    "tier": "F",
+    "type": "halberd",
+    "scaling": [
+      {
+        "str": "?"
+      },
+      {
+        "dex": "?"
+      },
+      {
+        "arc": "B"
+      }
+    ],
+    "skill": "Spinning Slash",
+    "stats": {
+      "weight": 8.5,
+      "physical": 86,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 227,
+    "weapon": "Rivers of Blood",
+    "tier": "S",
+    "type": "katana",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "arc": "D"
+      }
+    ],
+    "skill": "Corpse Piler",
+    "stats": {
+      "weight": 6.5,
+      "physical": 89,
+      "magic": 0,
+      "fire": 89,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 228,
+    "weapon": "Rogier's Rapier",
+    "tier": "S",
+    "type": "thrusting sword",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "C"
+      }
+    ],
+    "skill": "Glintblade Phalanx",
+    "stats": {
+      "weight": 3.5,
+      "physical": 136,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 229,
+    "weapon": "Rosus' Axe",
+    "tier": "B",
+    "type": "axe",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "E"
+      },
+      {
+        "int": "D"
+      }
+    ],
+    "skill": "Rosus's Summons",
+    "stats": {
+      "weight": 5.5,
+      "physical": 106,
+      "magic": 68,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 230,
+    "weapon": "Rotten Battle Hammer",
+    "tier": "E",
+    "type": "warhammer",
+    "scaling": [
+      {
+        "str": "C"
+      },
+      {
+        "dex": "E"
+      }
+    ],
+    "skill": "Braggart's Roar",
+    "stats": {
+      "weight": 10,
+      "physical": 126,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 231,
+    "weapon": "Rotten Crystal Spear",
+    "tier": "B",
+    "type": "spear",
+    "scaling": [{}],
+    "skill": "",
+    "stats": {
+      "weight": 5.5,
+      "physical": 104,
+      "magic": 31,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 232,
+    "weapon": "Rotten Crystal Staff",
+    "tier": "A",
+    "type": "glintstone staff",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "int": "B"
+      }
+    ],
+    "skill": null,
+    "stats": {
+      "weight": 4.5,
+      "physical": 42,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 233,
+    "weapon": "Rotten Crystal Sword",
+    "tier": "S",
+    "type": "straight sword",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "E"
+      },
+      {
+        "int": "D"
+      }
+    ],
+    "skill": "Spinning Slash",
+    "stats": {
+      "weight": 4.5,
+      "physical": 102,
+      "magic": 66,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 234,
+    "weapon": "Rotten Greataxe",
+    "tier": "C",
+    "type": "colossal weapon",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Endure",
+    "stats": {
+      "weight": 20,
+      "physical": 162,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 235,
+    "weapon": "Rotten Staff",
+    "tier": "C",
+    "type": "colossal weapon",
+    "scaling": [
+      {
+        "str": "C"
+      },
+      {
+        "dex": "E"
+      }
+    ],
+    "skill": "Erdtree Slam",
+    "stats": {
+      "weight": 18,
+      "physical": 165,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 236,
+    "weapon": "Royal Greatsword",
+    "tier": "A",
+    "type": "colossal sword",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "E"
+      },
+      {
+        "int": "D"
+      }
+    ],
+    "skill": "Wolf's Assault",
+    "stats": {
+      "weight": 20,
+      "physical": 122,
+      "magic": 134,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 237,
+    "weapon": "Ruins Greatsword",
+    "tier": "A",
+    "type": "colossal sword",
+    "scaling": [
+      {
+        "str": "B"
+      },
+      {
+        "int": "D"
+      }
+    ],
+    "skill": "Wave of Destruction",
+    "stats": {
+      "weight": 23,
+      "physical": 124,
+      "magic": 37,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 238,
+    "weapon": "Rusted Anchor",
+    "tier": "B",
+    "type": "great axe",
+    "scaling": [
+      {
+        "str": "C"
+      },
+      {
+        "dex": "E"
+      }
+    ],
+    "skill": "Barbaric Roar",
+    "stats": {
+      "weight": 12.5,
+      "physical": 147,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 239,
+    "weapon": "Sacred Relic Sword",
+    "tier": "B",
+    "type": "greatsword",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": "Waves of Gold",
+    "stats": {
+      "weight": 11,
+      "physical": 118,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 76
+    }
+  },
+  {
+    "id": 240,
+    "weapon": "Sacrificial Axe",
+    "tier": "E",
+    "type": "axe",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Wild Strikes",
+    "stats": {
+      "weight": 5.5,
+      "physical": 128,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 241,
+    "weapon": "Scavenger's Curved Sword",
+    "tier": "D",
+    "type": "curved sword",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Spinning Slash",
+    "stats": {
+      "weight": 3.5,
+      "physical": 105,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 242,
+    "weapon": "Scepter of the All-Knowing",
+    "tier": "S",
+    "type": "hammer",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "int": "D"
+      }
+    ],
+    "skill": "Knowledge Above All",
+    "stats": {
+      "weight": 4.5,
+      "physical": 99,
+      "magic": 64,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 243,
+    "weapon": "Scimitar",
+    "tier": "D",
+    "type": "curved sword",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Spinning Slash",
+    "stats": {
+      "weight": 3,
+      "physical": 106,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 244,
+    "weapon": "Scorpion's Stinger",
+    "tier": "E",
+    "type": "dagger",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "C"
+      }
+    ],
+    "skill": "Repeating Thrust",
+    "stats": {
+      "weight": 2.5,
+      "physical": 79,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 245,
+    "weapon": "Scythe",
+    "tier": "E",
+    "type": "reaper",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "C"
+      }
+    ],
+    "skill": "Spinning Slash",
+    "stats": {
+      "weight": 7.5,
+      "physical": 125,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 246,
+    "weapon": "Sentry's Torch",
+    "tier": "B",
+    "type": "torchs",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "E"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": "Torch Attack",
+    "stats": {
+      "weight": 5,
+      "physical": 56,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 100
+    }
+  },
+  {
+    "id": 247,
+    "weapon": "Serpent Bow",
+    "tier": "E",
+    "type": "light bow",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "arc": "D"
+      }
+    ],
+    "skill": "Mighty Shot",
+    "stats": {
+      "weight": 5.5,
+      "physical": 75,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 248,
+    "weapon": "Serpent-God's Curved Sword",
+    "tier": "D",
+    "type": "curved sword",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "E"
+      }
+    ],
+    "skill": "Spinning Slash",
+    "stats": {
+      "weight": 4,
+      "physical": 113,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 249,
+    "weapon": "Serpent-Hunter",
+    "tier": "F",
+    "type": "great spear",
+    "scaling": [
+      {
+        "str": "B"
+      },
+      {
+        "dex": "E"
+      }
+    ],
+    "skill": "Great-Serpent Hunt",
+    "stats": {
+      "weight": 12,
+      "physical": 111,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 250,
+    "weapon": "Serpentbone Blade",
+    "tier": "E",
+    "type": "katana",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "E"
+      }
+    ],
+    "skill": "Double Slash",
+    "stats": {
+      "weight": 6,
+      "physical": 120,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 251,
+    "weapon": "Shamshir",
+    "tier": "D",
+    "type": "curved sword",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Spinning Slash",
+    "stats": {
+      "weight": 3.5,
+      "physical": 108,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 252,
+    "weapon": "Short Spear",
+    "tier": "E",
+    "type": "spear",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Impaling Thrust",
+    "stats": {
+      "weight": 4,
+      "physical": 112,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 253,
+    "weapon": "Short Sword",
+    "tier": "F",
+    "type": "straight sword",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Kick",
+    "stats": {
+      "weight": 3,
+      "physical": 102,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 254,
+    "weapon": "Shortbow",
+    "tier": "F",
+    "type": "light bow",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "E"
+      }
+    ],
+    "skill": "Barrage",
+    "stats": {
+      "weight": 2.5,
+      "physical": 65,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 255,
+    "weapon": "Shotel",
+    "tier": "E",
+    "type": "curved sword",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Spinning Slash",
+    "stats": {
+      "weight": 2,
+      "physical": 96,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 256,
+    "weapon": "Siluria's Tree",
+    "tier": "A",
+    "type": "great spear",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": "Siluria's Woe",
+    "stats": {
+      "weight": 10,
+      "physical": 90,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 90
+    }
+  },
+  {
+    "id": 257,
+    "weapon": "Soldier's Crossbow",
+    "tier": "F",
+    "type": "crossbow",
+    "scaling": [{}],
+    "skill": "Kick",
+    "stats": {
+      "weight": 3.5,
+      "physical": 54,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 258,
+    "weapon": "Spear",
+    "tier": "D",
+    "type": "spear",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Impaling Thrust",
+    "stats": {
+      "weight": 4.5,
+      "physical": 114,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 259,
+    "weapon": "Spiked Caestus",
+    "tier": "F",
+    "type": "fist",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Endure",
+    "stats": {
+      "weight": 2,
+      "physical": 91,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 260,
+    "weapon": "Spiked Club",
+    "tier": "C",
+    "type": "hammer",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Barbaric Roar",
+    "stats": {
+      "weight": 5,
+      "physical": 114,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 261,
+    "weapon": "Spiked Spear",
+    "tier": "D",
+    "type": "spear",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Impaling Thrust",
+    "stats": {
+      "weight": 6,
+      "physical": 120,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 262,
+    "weapon": "St. Trina's Torch",
+    "tier": "B",
+    "type": "torchs",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": "Fires of Slumber",
+    "stats": {
+      "weight": 3,
+      "physical": 51,
+      "magic": 0,
+      "fire": 91,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 263,
+    "weapon": "Staff of Loss",
+    "tier": "E",
+    "type": "glintstone staff",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "E"
+      },
+      {
+        "int": "C"
+      }
+    ],
+    "skill": null,
+    "stats": {
+      "weight": 2.5,
+      "physical": 22,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 264,
+    "weapon": "Staff of the Avatar",
+    "tier": "A",
+    "type": "colossal weapon",
+    "scaling": [
+      {
+        "str": "C"
+      },
+      {
+        "dex": "E"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": "Erdtree Slam",
+    "stats": {
+      "weight": 20,
+      "physical": 113,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 73
+    }
+  },
+  {
+    "id": 265,
+    "weapon": "Staff of the Guilty",
+    "tier": "B",
+    "type": "glintstone staff",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "fai": "C"
+      }
+    ],
+    "skill": null,
+    "stats": {
+      "weight": 4.5,
+      "physical": 38,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 266,
+    "weapon": "Star Fist",
+    "tier": "E",
+    "type": "fist",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "E"
+      }
+    ],
+    "skill": "Endure",
+    "stats": {
+      "weight": 3,
+      "physical": 105,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 267,
+    "weapon": "Starscourge Greatsword",
+    "tier": "B",
+    "type": "colossal sword",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "int": "E"
+      }
+    ],
+    "skill": "Starcaller Cry",
+    "stats": {
+      "weight": 20,
+      "physical": 129,
+      "magic": 83,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 268,
+    "weapon": "Steel-Wire Torch",
+    "tier": "C",
+    "type": "torchs",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "C"
+      }
+    ],
+    "skill": "Firebreather",
+    "stats": {
+      "weight": 2.5,
+      "physical": 58,
+      "magic": 0,
+      "fire": 104,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 269,
+    "weapon": "Stone Club",
+    "tier": "B",
+    "type": "hammer",
+    "scaling": [
+      {
+        "str": "C"
+      },
+      {
+        "dex": "E"
+      }
+    ],
+    "skill": "Kick",
+    "stats": {
+      "weight": 7,
+      "physical": 122,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 270,
+    "weapon": "Stormhawk Axe",
+    "tier": "E",
+    "type": "axe",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Thunderstorm",
+    "stats": {
+      "weight": 5.5,
+      "physical": 130,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 271,
+    "weapon": "Sword of Milos",
+    "tier": "F",
+    "type": "greatsword",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Shriek of Milos",
+    "stats": {
+      "weight": 10,
+      "physical": 141,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 272,
+    "weapon": "Sword of Night and Flame",
+    "tier": "S",
+    "type": "straight sword",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "E"
+      },
+      {
+        "int": "D"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": "Night-and-Flame Stance",
+    "stats": {
+      "weight": 4,
+      "physical": 87,
+      "magic": 56,
+      "fire": 56,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 273,
+    "weapon": "Sword of St Trina",
+    "tier": "A",
+    "type": "straight sword",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "int": "E"
+      }
+    ],
+    "skill": "Mists of Slumber",
+    "stats": {
+      "weight": 3,
+      "physical": 107,
+      "magic": 32,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 274,
+    "weapon": "Thorned Whip",
+    "tier": "D",
+    "type": "whip",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "C"
+      }
+    ],
+    "skill": "Kick",
+    "stats": {
+      "weight": 2.5,
+      "physical": 102,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 275,
+    "weapon": "Torch",
+    "tier": "C",
+    "type": "torchs",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Torch Attack",
+    "stats": {
+      "weight": 1.5,
+      "physical": 54,
+      "magic": 0,
+      "fire": 97,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 276,
+    "weapon": "Torchpole",
+    "tier": "B",
+    "type": "spear",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "fai": "E"
+      }
+    ],
+    "skill": "Charge Forth",
+    "stats": {
+      "weight": 6,
+      "physical": 104,
+      "magic": 0,
+      "fire": 31,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 277,
+    "weapon": "Treespear",
+    "tier": "A",
+    "type": "great spear",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": "Sacred Order",
+    "stats": {
+      "weight": 9.5,
+      "physical": 122,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 79
+    }
+  },
+  {
+    "id": 278,
+    "weapon": "Troll Knight's Sword",
+    "tier": "B",
+    "type": "colossal sword",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "int": "D"
+      }
+    ],
+    "skill": "Troll's Roar",
+    "stats": {
+      "weight": 18,
+      "physical": 124,
+      "magic": 80,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 279,
+    "weapon": "Troll's Golden Sword",
+    "tier": "E",
+    "type": "colossal sword",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Troll's Roar",
+    "stats": {
+      "weight": 19,
+      "physical": 155,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 280,
+    "weapon": "Troll's Hammer",
+    "tier": "C",
+    "type": "colossal weapon",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "E"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": "Troll's Roar",
+    "stats": {
+      "weight": 16,
+      "physical": 153,
+      "magic": 0,
+      "fire": 45,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 281,
+    "weapon": "Twinblade",
+    "tier": "F",
+    "type": "twinblades",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Spinning Slash",
+    "stats": {
+      "weight": 7,
+      "physical": 119,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 282,
+    "weapon": "Twinned Knight Swords",
+    "tier": "F",
+    "type": "twinblades",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Spinning Slash",
+    "stats": {
+      "weight": 8,
+      "physical": 122,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 283,
+    "weapon": "Uchigatana",
+    "tier": "E",
+    "type": "katana",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Unsheathe",
+    "stats": {
+      "weight": 5.5,
+      "physical": 115,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 284,
+    "weapon": "Urumi",
+    "tier": "D",
+    "type": "whip",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "C"
+      }
+    ],
+    "skill": "Kick",
+    "stats": {
+      "weight": 3,
+      "physical": 101,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 285,
+    "weapon": "Varré's Bouquet",
+    "tier": "F",
+    "type": "hammer",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "arc": "C"
+      }
+    ],
+    "skill": "Blood Tax",
+    "stats": {
+      "weight": 2,
+      "physical": 46,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 286,
+    "weapon": "Venomous Fang",
+    "tier": "D",
+    "type": "claw",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Quickstep",
+    "stats": {
+      "weight": 2.5,
+      "physical": 92,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 287,
+    "weapon": "Veteran's Prosthesis",
+    "tier": "A",
+    "type": "fist",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Storm Kick",
+    "stats": {
+      "weight": 4,
+      "physical": 83,
+      "magic": 0,
+      "fire": 0,
+      "light": 53,
+      "holy": 0
+    }
+  },
+  {
+    "id": 288,
+    "weapon": "Vulgar Militia Saw",
+    "tier": "F",
+    "type": "halberd",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Spinning Slash",
+    "stats": {
+      "weight": 8,
+      "physical": 126,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 289,
+    "weapon": "Vulgar Militia Shotel",
+    "tier": "F",
+    "type": "halberd",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "C"
+      }
+    ],
+    "skill": "Spinning Slash",
+    "stats": {
+      "weight": 8,
+      "physical": 121,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 290,
+    "weapon": "Vyke's War Spear",
+    "tier": "B",
+    "type": "great spear",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "C"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": "Frenzyflame Thrust",
+    "stats": {
+      "weight": 8,
+      "physical": 103,
+      "magic": 0,
+      "fire": 66,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 291,
+    "weapon": "Wakizashi",
+    "tier": "D",
+    "type": "dagger",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Quickstep",
+    "stats": {
+      "weight": 3,
+      "physical": 94,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 292,
+    "weapon": "Warhawk's Talon",
+    "tier": "F",
+    "type": "straight sword",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "C"
+      }
+    ],
+    "skill": "Spinning Slash",
+    "stats": {
+      "weight": 3,
+      "physical": 101,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 293,
+    "weapon": "Warped Axe",
+    "tier": "E",
+    "type": "axe",
+    "scaling": [
+      {
+        "str": "C"
+      }
+    ],
+    "skill": "War Cry",
+    "stats": {
+      "weight": 7.5,
+      "physical": 118,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 294,
+    "weapon": "Warpick",
+    "tier": "C",
+    "type": "hammer",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Kick",
+    "stats": {
+      "weight": 2.5,
+      "physical": 108,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 295,
+    "weapon": "Watchdog's Staff",
+    "tier": "C",
+    "type": "colossal weapon",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Sorcery of the Crozier",
+    "stats": {
+      "weight": 19,
+      "physical": 165,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 296,
+    "weapon": "Watchdogs Greatsword",
+    "tier": "F",
+    "type": "colossal sword",
+    "scaling": [
+      {
+        "str": "C"
+      },
+      {
+        "dex": "E"
+      }
+    ],
+    "skill": "Stamp (Upward Cut)",
+    "stats": {
+      "weight": 22,
+      "physical": 142,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 297,
+    "weapon": "Weathered Straight Sword",
+    "tier": "F",
+    "type": "straight sword",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Square Off",
+    "stats": {
+      "weight": 3,
+      "physical": 103,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 298,
+    "weapon": "Whip",
+    "tier": "D",
+    "type": "whip",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Kick",
+    "stats": {
+      "weight": 2,
+      "physical": 100,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 299,
+    "weapon": "Wing of Astel",
+    "tier": "A",
+    "type": "curved sword",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "int": "D"
+      }
+    ],
+    "skill": "Nebula",
+    "stats": {
+      "weight": 2.5,
+      "physical": 65,
+      "magic": 78,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 300,
+    "weapon": "Winged Greathorn",
+    "tier": "E",
+    "type": "great axe",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Soul Stifler",
+    "stats": {
+      "weight": 11,
+      "physical": 130,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 301,
+    "weapon": "Winged Scythe",
+    "tier": "S",
+    "type": "reaper",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": "Angel's Wings",
+    "stats": {
+      "weight": 7.5,
+      "physical": 87,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 104
+    }
+  },
+  {
+    "id": 302,
+    "weapon": "Winged Spear",
+    "tier": "F",
+    "type": "spear",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "C"
+      }
+    ],
+    "skill": "Charge Forth",
+    "stats": {
+      "weight": 4.5,
+      "physical": 78,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 303,
+    "weapon": "Zamor Curved Sword",
+    "tier": "F",
+    "type": "curved greatsword",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Zamor Ice Storm",
+    "stats": {
+      "weight": 9,
+      "physical": 125,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 304,
+    "weapon": "Zweihander",
+    "tier": "F",
+    "type": "colossal sword",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Stamp (Upward Cut)",
+    "stats": {
+      "weight": 15.5,
+      "physical": 141,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  }
+]

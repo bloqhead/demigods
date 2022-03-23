@@ -1,0 +1,341 @@
+[
+  {
+    "id": 33,
+    "weapon": "Eclipse Shotel",
+    "tier": "A",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": "Death Flare",
+    "stats": {
+      "weight": 3,
+      "physical": 77,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 77
+    }
+  },
+  {
+    "id": 50,
+    "weapon": "Magma Blade",
+    "tier": "A",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": "Magma Shower",
+    "stats": {
+      "weight": 4,
+      "physical": 96,
+      "magic": 0,
+      "fire": 62,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 63,
+    "weapon": "Wing of Astel",
+    "tier": "A",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "int": "D"
+      }
+    ],
+    "skill": "Nebula",
+    "stats": {
+      "weight": 2.5,
+      "physical": 65,
+      "magic": 78,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 111,
+    "weapon": "Bandit's Curved Sword",
+    "tier": "C",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Spinning Slash",
+    "stats": {
+      "weight": 5,
+      "physical": 118,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 117,
+    "weapon": "Grossmesser",
+    "tier": "C",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Spinning Slash",
+    "stats": {
+      "weight": 4.5,
+      "physical": 115,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 137,
+    "weapon": "Beastman's Curved Sword",
+    "tier": "D",
+    "scaling": [
+      {
+        "str": "C"
+      },
+      {
+        "dex": "E"
+      }
+    ],
+    "skill": "Spinning Slash",
+    "stats": {
+      "weight": 4,
+      "physical": 113,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 148,
+    "weapon": "Falchion",
+    "tier": "D",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Spinning Slash",
+    "stats": {
+      "weight": 3.5,
+      "physical": 109,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 150,
+    "weapon": "Flowing Curved Sword",
+    "tier": "D",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Spinning Slash",
+    "stats": {
+      "weight": 3.5,
+      "physical": 109,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 159,
+    "weapon": "Mantis Blade",
+    "tier": "D",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Spinning Slash",
+    "stats": {
+      "weight": 4,
+      "physical": 112,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 162,
+    "weapon": "Nox Flowing Sword",
+    "tier": "D",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Flowing Form",
+    "stats": {
+      "weight": 3.5,
+      "physical": 112,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 168,
+    "weapon": "Scavenger's Curved Sword",
+    "tier": "D",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Spinning Slash",
+    "stats": {
+      "weight": 3.5,
+      "physical": 105,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 169,
+    "weapon": "Scimitar",
+    "tier": "D",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Spinning Slash",
+    "stats": {
+      "weight": 3,
+      "physical": 106,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 170,
+    "weapon": "Serpent-God's Curved Sword",
+    "tier": "D",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "E"
+      }
+    ],
+    "skill": "Spinning Slash",
+    "stats": {
+      "weight": 4,
+      "physical": 113,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 171,
+    "weapon": "Shamshir",
+    "tier": "D",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Spinning Slash",
+    "stats": {
+      "weight": 3.5,
+      "physical": 108,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 219,
+    "weapon": "Shotel",
+    "tier": "E",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Spinning Slash",
+    "stats": {
+      "weight": 2,
+      "physical": 96,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  }
+]

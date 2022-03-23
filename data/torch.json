@@ -1,0 +1,143 @@
+[
+  {
+    "id": 71,
+    "weapon": "Beast-Repellent Torch",
+    "tier": "B",
+    "scaling": [
+      {
+        "str": "C"
+      },
+      {
+        "dex": "E"
+      }
+    ],
+    "skill": "Torch Attack",
+    "stats": {
+      "weight": 2.5,
+      "physical": 58,
+      "magic": 0,
+      "fire": 104,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 78,
+    "weapon": "Ghostflame Torch",
+    "tier": "B",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "E"
+      },
+      {
+        "int": "D"
+      }
+    ],
+    "skill": "Torch Attack",
+    "stats": {
+      "weight": 2.5,
+      "physical": 50,
+      "magic": 90,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 97,
+    "weapon": "Sentry's Torch",
+    "tier": "B",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "E"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": "Torch Attack",
+    "stats": {
+      "weight": 5,
+      "physical": 56,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 100
+    }
+  },
+  {
+    "id": 98,
+    "weapon": "St. Trina's Torch",
+    "tier": "B",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": "Fires of Slumber",
+    "stats": {
+      "weight": 3,
+      "physical": 51,
+      "magic": 0,
+      "fire": 91,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 129,
+    "weapon": "Steel-Wire Torch",
+    "tier": "C",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "C"
+      }
+    ],
+    "skill": "Firebreather",
+    "stats": {
+      "weight": 2.5,
+      "physical": 58,
+      "magic": 0,
+      "fire": 104,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 130,
+    "weapon": "Torch",
+    "tier": "C",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Torch Attack",
+    "stats": {
+      "weight": 1.5,
+      "physical": 54,
+      "magic": 0,
+      "fire": 97,
+      "light": 0,
+      "holy": 0
+    }
+  }
+]

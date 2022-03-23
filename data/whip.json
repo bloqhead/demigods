@@ -1,0 +1,140 @@
+[
+  {
+    "id": 39,
+    "weapon": "Giant's Red Braid",
+    "tier": "A",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": "Flame Dance",
+    "stats": {
+      "weight": 2.5,
+      "physical": 82,
+      "magic": 0,
+      "fire": 53,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 87,
+    "weapon": "Magma Whip Candlestick",
+    "tier": "B",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": "Sea of Magma",
+    "stats": {
+      "weight": 2.5,
+      "physical": 72,
+      "magic": 0,
+      "fire": 72,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 118,
+    "weapon": "Hoslow's Petal Whip",
+    "tier": "C",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Kick",
+    "stats": {
+      "weight": 3.5,
+      "physical": 110,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 174,
+    "weapon": "Thorned Whip",
+    "tier": "D",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "C"
+      }
+    ],
+    "skill": "Kick",
+    "stats": {
+      "weight": 2.5,
+      "physical": 102,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 175,
+    "weapon": "Urumi",
+    "tier": "D",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "C"
+      }
+    ],
+    "skill": "Kick",
+    "stats": {
+      "weight": 3,
+      "physical": 101,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 178,
+    "weapon": "Whip",
+    "tier": "D",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Kick",
+    "stats": {
+      "weight": 2,
+      "physical": 100,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  }
+]

@@ -1,0 +1,422 @@
+[
+  {
+    "id": 14,
+    "weapon": "Rotten Crystal Sword",
+    "tier": "S",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "E"
+      },
+      {
+        "int": "D"
+      }
+    ],
+    "skill": "Spinning Slash",
+    "stats": {
+      "weight": 4.5,
+      "physical": 102,
+      "magic": 66,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 16,
+    "weapon": "Sword of Night and Flame",
+    "tier": "S",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "E"
+      },
+      {
+        "int": "D"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": "Night-and-Flame Stance",
+    "stats": {
+      "weight": 4,
+      "physical": 87,
+      "magic": 56,
+      "fire": 56,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 26,
+    "weapon": "Carian Knight's Sword",
+    "tier": "A",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "int": "D"
+      }
+    ],
+    "skill": "Carian Grandeur",
+    "stats": {
+      "weight": 4,
+      "physical": 88,
+      "magic": 88,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 28,
+    "weapon": "Crystal Sword",
+    "tier": "A",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "E"
+      },
+      {
+        "int": "D"
+      }
+    ],
+    "skill": "Spinning Slash",
+    "stats": {
+      "weight": 4.5,
+      "physical": 106,
+      "magic": 68,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 49,
+    "weapon": "Lazuli Glintstone Sword",
+    "tier": "A",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "E"
+      },
+      {
+        "int": "D"
+      }
+    ],
+    "skill": "Glinstone Pebble",
+    "stats": {
+      "weight": 3.5,
+      "physical": 79,
+      "magic": 94,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 53,
+    "weapon": "Miquellan Knight's Sword",
+    "tier": "A",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "fai": "E"
+      }
+    ],
+    "skill": "Sacred Blade",
+    "stats": {
+      "weight": 3.5,
+      "physical": 105,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 68
+    }
+  },
+  {
+    "id": 60,
+    "weapon": "Sword of St Trina",
+    "tier": "A",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "int": "E"
+      }
+    ],
+    "skill": "Mists of Slumber",
+    "stats": {
+      "weight": 3,
+      "physical": 107,
+      "magic": 32,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 125,
+    "weapon": "Regalia of Eochaid",
+    "tier": "C",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "arc": "D"
+      }
+    ],
+    "skill": "Eochaid's Dancing Blade",
+    "stats": {
+      "weight": 5.5,
+      "physical": 89,
+      "magic": 57,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 188,
+    "weapon": "Broadsword",
+    "tier": "E",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "E"
+      }
+    ],
+    "skill": "Square Off",
+    "stats": {
+      "weight": 4,
+      "physical": 117,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 236,
+    "weapon": "Cane Sword",
+    "tier": "F",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Square Off",
+    "stats": {
+      "weight": 2.5,
+      "physical": 96,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 240,
+    "weapon": "Coded Sword",
+    "tier": "F",
+    "scaling": [
+      {
+        "fai": "B"
+      }
+    ],
+    "skill": "Unblockable Blade",
+    "stats": {
+      "weight": 2.5,
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 85
+    }
+  },
+  {
+    "id": 265,
+    "weapon": "Longsword",
+    "tier": "F",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Square Off",
+    "stats": {
+      "weight": 3.5,
+      "physical": 110,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 267,
+    "weapon": "Lordsworn's Straight Sword",
+    "tier": "F",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Square Off",
+    "stats": {
+      "weight": 3.5,
+      "physical": 115,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 274,
+    "weapon": "Noble's Slender Sword",
+    "tier": "F",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "C"
+      }
+    ],
+    "skill": "Square Off",
+    "stats": {
+      "weight": 3.5,
+      "physical": 101,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 275,
+    "weapon": "Ornamental Straight Sword",
+    "tier": "F",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Golden Tempering",
+    "stats": {
+      "weight": 3,
+      "physical": 101,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 285,
+    "weapon": "Short Sword",
+    "tier": "F",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Kick",
+    "stats": {
+      "weight": 3,
+      "physical": 102,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 295,
+    "weapon": "Warhawk's Talon",
+    "tier": "F",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "C"
+      }
+    ],
+    "skill": "Spinning Slash",
+    "stats": {
+      "weight": 3,
+      "physical": 101,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 297,
+    "weapon": "Weathered Straight Sword",
+    "tier": "F",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Square Off",
+    "stats": {
+      "weight": 3,
+      "physical": 103,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  }
+]

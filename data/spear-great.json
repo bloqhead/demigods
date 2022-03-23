@@ -1,0 +1,146 @@
+[
+  {
+    "id": 58,
+    "weapon": "Siluria's Tree",
+    "tier": "A",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": "Siluria's Woe",
+    "stats": {
+      "weight": 10,
+      "physical": 90,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 90
+    }
+  },
+  {
+    "id": 61,
+    "weapon": "Treespear",
+    "tier": "A",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": "Sacred Order",
+    "stats": {
+      "weight": 9.5,
+      "physical": 122,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 79
+    }
+  },
+  {
+    "id": 103,
+    "weapon": "Vyke's War Spear",
+    "tier": "B",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "C"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": "Frenzyflame Thrust",
+    "stats": {
+      "weight": 8,
+      "physical": 103,
+      "magic": 0,
+      "fire": 66,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 122,
+    "weapon": "Mohgwyn's Sacred Spear",
+    "tier": "C",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "arc": "D"
+      },
+      {
+        "dex": "E"
+      }
+    ],
+    "skill": "Bloodboon Ritual",
+    "stats": {
+      "weight": 10,
+      "physical": 96,
+      "magic": 0,
+      "fire": 62,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 263,
+    "weapon": "Lance",
+    "tier": "F",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Charge Forth",
+    "stats": {
+      "weight": 10.5,
+      "physical": 110,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 284,
+    "weapon": "Serpent-Hunter",
+    "tier": "F",
+    "scaling": [
+      {
+        "str": "B"
+      },
+      {
+        "dex": "E"
+      }
+    ],
+    "skill": "Great-Serpent Hunt",
+    "stats": {
+      "weight": 12,
+      "physical": 111,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  }
+]

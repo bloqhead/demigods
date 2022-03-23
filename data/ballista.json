@@ -1,0 +1,46 @@
+[
+  {
+    "id": 119,
+    "weapon": "Jar Cannon",
+    "tier": "C",
+    "scaling": [
+      {
+        "str": "?"
+      },
+      {
+        "dex": "?"
+      }
+    ],
+    "skill": "Kick",
+    "stats": {
+      "weight": 15,
+      "physical": 192,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 256,
+    "weapon": "Hand Ballista",
+    "tier": "F",
+    "scaling": [
+      {
+        "str": "?:"
+      },
+      {
+        "dex": "?:"
+      }
+    ],
+    "skill": "Kick",
+    "stats": {
+      "weight": 10,
+      "physical": 135,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  }
+]

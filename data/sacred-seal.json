@@ -1,0 +1,203 @@
+[
+  {
+    "id": 18,
+    "weapon": "Dragon Communion Seal",
+    "tier": "S",
+    "scaling": [
+      {
+        "fai": "D"
+      },
+      {
+        "arc": "C"
+      }
+    ],
+    "skill": "",
+    "stats": {
+      "weight": 0,
+      "physical": 25,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 19,
+    "weapon": "Frenzied Flame Seal",
+    "tier": "S",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "E"
+      },
+      {
+        "int": "E"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": null,
+    "stats": {
+      "weight": 0,
+      "physical": 25,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 20,
+    "weapon": "Giant's Seal",
+    "tier": "S",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "fai": "C"
+      }
+    ],
+    "skill": null,
+    "stats": {
+      "weight": 1.5,
+      "physical": 25,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 65,
+    "weapon": "Godslayer's Seal",
+    "tier": "A",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "fai": "C"
+      }
+    ],
+    "skill": null,
+    "stats": {
+      "weight": 1.5,
+      "physical": 25,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 66,
+    "weapon": "Golden Order Seal",
+    "tier": "A",
+    "scaling": [
+      {
+        "int": "D"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": null,
+    "stats": {
+      "weight": 0,
+      "physical": 24,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 67,
+    "weapon": "Gravel Stone Seal",
+    "tier": "A",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "fai": "C"
+      }
+    ],
+    "skill": null,
+    "stats": {
+      "weight": 1.5,
+      "physical": 25,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 134,
+    "weapon": "Finger Seal",
+    "tier": "C",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "fai": "C"
+      }
+    ],
+    "skill": null,
+    "stats": {
+      "weight": 1.5,
+      "physical": 25,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 301,
+    "weapon": "Clawmark Seal",
+    "tier": "F",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": null,
+    "stats": {
+      "weight": 1.5,
+      "physical": 31,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 302,
+    "weapon": "Erdtree Seal",
+    "tier": "F",
+    "scaling": [
+      {
+        "fai": "C"
+      }
+    ],
+    "skill": null,
+    "stats": {
+      "weight": 0,
+      "physical": 25,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 15
+    }
+  }
+]

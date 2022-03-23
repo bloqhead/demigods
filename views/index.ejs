@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DEMIGODS | Elden Ring Weapons API</title>
+  <style>
+    *,
+    *:before,
+    *:after {
+      box-sizing: border-box;
+    }
+
+    :root {
+      --accent: rgb(193, 157, 83);
+      --accent-alt: crimson;
+    }
+
+    html {
+      font-size: 62.5%;
+    }
+
+    body {
+      min-height: 100vh;
+      display: grid;
+      place-items: center;
+      margin: 0;
+      background: #eee;
+      font-family: monospace;
+      font-size: 16px;
+      line-height: 1.5;
+      color: #333;
+    }
+
+    main {
+      position: relative;
+      max-width: 70em;
+      width: 100%;
+      padding: 1em;
+      background: #fff;
+      border-radius: 0.5em;
+    }
+
+    ul {
+      list-style: none;
+      padding: 0;
+      margin: 0 0 1rem 0;
+    }
+
+    .items {}
+
+    .items>div {
+      padding: 0.5em;
+      margin: 0 0 4em 0;
+      border-bottom: 1px solid #eee;
+    }
+
+    .items>div:last-of-type {
+      margin-bottom: 0;
+    }
+
+    .items li {
+      display: block;
+      border-bottom: 1px solid #eee;
+      padding: 0.5em 0;
+    }
+
+    .items li:last-of-type {
+      border: 0;
+    }
+
+    a {
+      color: crimson;
+      transition: all 250ms ease-in-out;
+    }
+
+    a,
+    a code {
+      text-decoration: underline;
+    }
+
+    a:hover,
+    a:active,
+    a:focus {
+      color: #000;
+    }
+
+    code,
+    pre {
+      font-size: inherit;
+    }
+
+    code {
+      display: inline-block;
+      padding: 3px 6px;
+      border-radius: 5px;
+      background: #eee;
+    }
+
+    em {
+      color: #999;
+    }
+
+    header,
+    footer {
+      display: block;
+    }
+
+    header {
+      text-align: center;
+      margin: 0 0 1em 0;
+      padding: 0 0 1em 0;
+      border-bottom: 1px solid #eee;
+    }
+
+    footer {
+      text-align: center;
+      border-top: 1px solid #eee;
+      margin: 1em 0 0 0;
+      padding: 1em 0 0 0;
+    }
+
+    .btn {
+      display: inline-block;
+      background-color: var(--accent);
+      color: #fff;
+      padding: 1em 1.5em;
+      border-radius: 5px;
+      text-decoration: none;
+      text-transform: uppercase;
+      letter-spacing: 2px;
+    }
+
+    .btn.sml {
+      padding: 0.25em 0.5em;
+      font-size: 14px;
+      letter-spacing: 0;
+      text-transform: none;
+    }
+
+    .btn:hover,
+    .btn:active,
+    .btn:focus {
+      background: var(--accent-alt);
+      color: #fff;
+    }
+
+    .toc {
+      position: -webkit-sticky;
+      position: sticky;
+      top: 0;
+      margin: 0 0 1em 0;
+      padding: 1em;
+      border-bottom: 1px solid #eee;
+      background: #fff;
+    }
+
+    .toc ul {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5em;
+    }
+  </style>
+</head>
+
+<body>
+  <main>
+    <a name="top"></a>
+    <header>
+      <h1>Welcome to the <span style="color: var(--accent-alt);">Elden Ring DEMIGODS</span> API!</h1>
+      <p>
+        This API returns a JSON response with information about all weapons in the Elden Ring universe.
+      </p>
+    </header>
+    <div class="toc">
+      <h3>Table of Contents:</h3>
+      <ul>
+        <% for(let i=0; i < items.length; i++) { %>
+          <li>
+            <a class="btn sml" href="#<%= items[i][0] %>">
+              <%= items[i][0] %>
+            </a>
+          </li>
+          <% } %>
+      </ul>
+    </div>
+    <div class="items">
+      <% for(let i=0; i < items.length; i++) { %>
+        <div>
+          <ul id="<%= items[i][0] %>">
+            <li>
+              <strong>Default:</strong>
+              <a href="/<%= version %><%= items[i][0] %>" target="_blank">
+                /<%= version + items[i][0] %>
+              </a>
+            </li>
+            <li>
+              <strong>Tier:</strong>
+              <code>/<%= version %><%= items[i][1] %></code> <em>(e.g. /crossbow/tier/e)</em>
+            </li>
+            <li>
+              <strong>ID:</strong>
+              <code>/<%= version %><%= items[i][2] %></code> <em>(e.g. /crossbow/63)</em>
+            </li>
+            <li>
+              <strong>Slug:</strong>
+              <code>/<%= version %><%= items[i][2] %></code> <em>(e.g.
+                /crossbow/heavy-crossbow)</em>
+            </li>
+          </ul>
+          <p><a class="btn sml" href="#top">Top &uarr;</a></p>
+        </div>
+        <% } %>
+    </div>
+    <footer>
+      <p><a class="btn" href="#top">Back to top &uarr;</a></p>
+    </footer>
+  </main>
+</body>
+
+</html>

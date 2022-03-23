@@ -1,0 +1,93 @@
+[
+  {
+    "id": 8,
+    "weapon": "Lion Greatbow",
+    "tier": "S",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Radahn's Rain",
+    "stats": {
+      "weight": 8.5,
+      "physical": 120,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 81,
+    "weapon": "Golem Greatbow",
+    "tier": "B",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "E"
+      }
+    ],
+    "skill": "Through and Through",
+    "stats": {
+      "weight": 14.5,
+      "physical": 130,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 147,
+    "weapon": "Erdtree Greatbow",
+    "tier": "D",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "E"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": "Through and Through",
+    "stats": {
+      "weight": 11,
+      "physical": 60,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 65
+    }
+  },
+  {
+    "id": 156,
+    "weapon": "Greatbow",
+    "tier": "D",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Through and Through",
+    "stats": {
+      "weight": 10,
+      "physical": 125,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  }
+]

@@ -1,0 +1,187 @@
+[
+  {
+    "id": 9,
+    "weapon": "Meteoric Ore Blade",
+    "tier": "S",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "int": "D"
+      }
+    ],
+    "skill": "Gravitas",
+    "stats": {
+      "weight": 7.5,
+      "physical": 112,
+      "magic": 72,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 10,
+    "weapon": "Moonveil",
+    "tier": "S",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "int": "C"
+      }
+    ],
+    "skill": "Transient Moonlight",
+    "stats": {
+      "weight": 6.5,
+      "physical": 73,
+      "magic": 87,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 12,
+    "weapon": "Rivers of Blood",
+    "tier": "S",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "arc": "D"
+      }
+    ],
+    "skill": "Corpse Piler",
+    "stats": {
+      "weight": 6.5,
+      "physical": 89,
+      "magic": 0,
+      "fire": 89,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 44,
+    "weapon": "Hand of Malenia",
+    "tier": "A",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "B"
+      }
+    ],
+    "skill": "Waterfowl Dance",
+    "stats": {
+      "weight": 7,
+      "physical": 117,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 217,
+    "weapon": "Serpentbone Blade",
+    "tier": "E",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "E"
+      }
+    ],
+    "skill": "Double Slash",
+    "stats": {
+      "weight": 6,
+      "physical": 120,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 223,
+    "weapon": "Uchigatana",
+    "tier": "E",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Unsheathe",
+    "stats": {
+      "weight": 5.5,
+      "physical": 115,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 243,
+    "weapon": "Dragonscale Blade",
+    "tier": "F",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "C"
+      }
+    ],
+    "skill": "Ice Lightning Sword",
+    "stats": {
+      "weight": 5.5,
+      "physical": 110,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 271,
+    "weapon": "Nagakiba",
+    "tier": "F",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "C"
+      }
+    ],
+    "skill": "Piercing Fang",
+    "stats": {
+      "weight": 7,
+      "physical": 104,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  }
+]

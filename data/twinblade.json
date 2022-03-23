@@ -1,0 +1,140 @@
+[
+  {
+    "id": 77,
+    "weapon": "Gargoyle's Blackblade",
+    "tier": "B",
+    "scaling": [
+      {
+        "str": "C"
+      },
+      {
+        "dex": "E"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": "Spinning Slash",
+    "stats": {
+      "weight": 8.5,
+      "physical": 81,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 97
+    }
+  },
+  {
+    "id": 196,
+    "weapon": "Eleonora's Poleblade",
+    "tier": "E",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "arc": "D"
+      }
+    ],
+    "skill": "Bloodblade Dance",
+    "stats": {
+      "weight": 2.5,
+      "physical": 72,
+      "magic": 0,
+      "fire": 72,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 250,
+    "weapon": "Gargoyle's Twinblade",
+    "tier": "F",
+    "scaling": [
+      {
+        "str": "C"
+      },
+      {
+        "dex": "E"
+      }
+    ],
+    "skill": "Spinning Slash",
+    "stats": {
+      "weight": 8.5,
+      "physical": 123,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 251,
+    "weapon": "Godskin Peeler",
+    "tier": "F",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "C"
+      }
+    ],
+    "skill": "Black Flame Tornado",
+    "stats": {
+      "weight": 8,
+      "physical": 121,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 290,
+    "weapon": "Twinblade",
+    "tier": "F",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Spinning Slash",
+    "stats": {
+      "weight": 7,
+      "physical": 119,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 291,
+    "weapon": "Twinned Knight Swords",
+    "tier": "F",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Spinning Slash",
+    "stats": {
+      "weight": 8,
+      "physical": 122,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  }
+]

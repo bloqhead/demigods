@@ -1,0 +1,416 @@
+[
+  {
+    "id": 21,
+    "weapon": "Lusat's Glintstone Staff",
+    "tier": "S",
+    "scaling": [
+      {
+        "str": "C"
+      },
+      {
+        "int": "S"
+      }
+    ],
+    "skill": null,
+    "stats": {
+      "weight": 4,
+      "physical": 55,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 64,
+    "weapon": "Azur's Glintstone Staff",
+    "tier": "A",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "int": "B"
+      }
+    ],
+    "skill": null,
+    "stats": {
+      "weight": 4,
+      "physical": 24,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 68,
+    "weapon": "Rotten Crystal Staff",
+    "tier": "A",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "int": "B"
+      }
+    ],
+    "skill": null,
+    "stats": {
+      "weight": 4.5,
+      "physical": 42,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 104,
+    "weapon": "Academy Glintstone Staff",
+    "tier": "B",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "int": "B"
+      }
+    ],
+    "skill": "None",
+    "stats": {
+      "weight": 3,
+      "physical": 25,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 105,
+    "weapon": "Demi-Human Queen's Staff",
+    "tier": "B",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "int": "C"
+      }
+    ],
+    "skill": null,
+    "stats": {
+      "weight": 3,
+      "physical": 31,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 106,
+    "weapon": "Gelmir Glintstone Staff",
+    "tier": "B",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "int": "D"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": null,
+    "stats": {
+      "weight": 2.5,
+      "physical": 29,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 107,
+    "weapon": "Meteorite Staff",
+    "tier": "B",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "int": "S"
+      }
+    ],
+    "skill": null,
+    "stats": {
+      "weight": 4.5,
+      "physical": 39,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 108,
+    "weapon": "Staff of the Guilty",
+    "tier": "B",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "fai": "C"
+      }
+    ],
+    "skill": null,
+    "stats": {
+      "weight": 4.5,
+      "physical": 38,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 179,
+    "weapon": "Astrologer's Staff",
+    "tier": "D",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "int": "C"
+      }
+    ],
+    "skill": null,
+    "stats": {
+      "weight": 3,
+      "physical": 25,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 180,
+    "weapon": "Carian Glintstine Staff",
+    "tier": "D",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "int": "C"
+      }
+    ],
+    "skill": null,
+    "stats": {
+      "weight": 3,
+      "physical": 25,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 181,
+    "weapon": "Crystal Staff",
+    "tier": "D",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "int": "B"
+      }
+    ],
+    "skill": null,
+    "stats": {
+      "weight": 4.5,
+      "physical": 31,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 182,
+    "weapon": "Glintstone Staff",
+    "tier": "D",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "int": "C"
+      }
+    ],
+    "skill": null,
+    "stats": {
+      "weight": 3,
+      "physical": 25,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 226,
+    "weapon": "Carian Regal Scepter",
+    "tier": "E",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "E"
+      },
+      {
+        "int": "B"
+      }
+    ],
+    "skill": "Spinning Weapon",
+    "stats": {
+      "weight": 3,
+      "physical": 24,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 227,
+    "weapon": "Digger's Staff",
+    "tier": "E",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "int": "C"
+      }
+    ],
+    "skill": null,
+    "stats": {
+      "weight": 4.5,
+      "physical": 38,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 228,
+    "weapon": "Prince of Death's Staff",
+    "tier": "E",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "int": "D"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": null,
+    "stats": {
+      "weight": 3,
+      "physical": 25,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 229,
+    "weapon": "Staff of Loss",
+    "tier": "E",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "E"
+      },
+      {
+        "int": "C"
+      }
+    ],
+    "skill": null,
+    "stats": {
+      "weight": 2.5,
+      "physical": 22,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 303,
+    "weapon": "Albinauric Staff",
+    "tier": null,
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "int": "D"
+      },
+      {
+        "arc": "C"
+      }
+    ],
+    "skill": null,
+    "stats": {
+      "weight": 2.5,
+      "physical": 17,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 304,
+    "weapon": "Carian Glintblade Staff",
+    "tier": null,
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "int": "C"
+      },
+      {
+        "dex": "E"
+      }
+    ],
+    "skill": null,
+    "stats": {
+      "weight": 2.5,
+      "physical": 22,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  }
+]

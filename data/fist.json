@@ -1,0 +1,200 @@
+[
+  {
+    "id": 42,
+    "weapon": "Grafted Dragon",
+    "tier": "A",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": "Bear Witness!",
+    "stats": {
+      "weight": 2.5,
+      "physical": 89,
+      "magic": 0,
+      "fire": 57,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 62,
+    "weapon": "Veteran's Prosthesis",
+    "tier": "A",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Storm Kick",
+    "stats": {
+      "weight": 4,
+      "physical": 83,
+      "magic": 0,
+      "fire": 0,
+      "light": 53,
+      "holy": 0
+    }
+  },
+  {
+    "id": 220,
+    "weapon": "Star Fist",
+    "tier": "E",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "E"
+      }
+    ],
+    "skill": "Endure",
+    "stats": {
+      "weight": 3,
+      "physical": 105,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 235,
+    "weapon": "Caestus",
+    "tier": "F",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Endure",
+    "stats": {
+      "weight": 1.5,
+      "physical": 90,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 237,
+    "weapon": "Cipher Pata",
+    "tier": "F",
+    "scaling": [
+      {
+        "fai": "C"
+      }
+    ],
+    "skill": "Unblockable Blade",
+    "stats": {
+      "weight": 0,
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 85
+    }
+  },
+  {
+    "id": 239,
+    "weapon": "Clinging Bone",
+    "tier": "F",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "C"
+      }
+    ],
+    "skill": "Lifesteal",
+    "stats": {
+      "weight": 2.5,
+      "physical": 96,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 260,
+    "weapon": "Iron Ball",
+    "tier": "F",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "E"
+      }
+    ],
+    "skill": "Braggart's Roar",
+    "stats": {
+      "weight": 2.5,
+      "physical": 101,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 261,
+    "weapon": "Katar",
+    "tier": "F",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Impaling Thrust",
+    "stats": {
+      "weight": 2.5,
+      "physical": 97,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 288,
+    "weapon": "Spiked Caestus",
+    "tier": "F",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Endure",
+    "stats": {
+      "weight": 2,
+      "physical": 91,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  }
+]

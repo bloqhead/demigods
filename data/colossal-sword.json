@@ -1,0 +1,259 @@
+[
+  {
+    "id": 7,
+    "weapon": "Godslayer's Greatsword",
+    "tier": "S",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": "The Queen's Black Flame",
+    "stats": {
+      "weight": 17.5,
+      "physical": 119,
+      "magic": 0,
+      "fire": 77,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 41,
+    "weapon": "Grafted Blade Greatsword",
+    "tier": "A",
+    "scaling": [
+      {
+        "str": "C"
+      },
+      {
+        "dex": "E"
+      }
+    ],
+    "skill": "Oath of Vengeance",
+    "stats": {
+      "weight": 21,
+      "physical": 157,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 56,
+    "weapon": "Royal Greatsword",
+    "tier": "A",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "E"
+      },
+      {
+        "int": "D"
+      }
+    ],
+    "skill": "Wolf's Assault",
+    "stats": {
+      "weight": 20,
+      "physical": 122,
+      "magic": 134,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 57,
+    "weapon": "Ruins Greatsword",
+    "tier": "A",
+    "scaling": [
+      {
+        "str": "B"
+      },
+      {
+        "int": "D"
+      }
+    ],
+    "skill": "Wave of Destruction",
+    "stats": {
+      "weight": 23,
+      "physical": 124,
+      "magic": 37,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 99,
+    "weapon": "Starscourge Greatsword",
+    "tier": "B",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "int": "E"
+      }
+    ],
+    "skill": "Starcaller Cry",
+    "stats": {
+      "weight": 20,
+      "physical": 129,
+      "magic": 83,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 102,
+    "weapon": "Troll Knight's Sword",
+    "tier": "B",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "int": "D"
+      }
+    ],
+    "skill": "Troll's Roar",
+    "stats": {
+      "weight": 18,
+      "physical": 124,
+      "magic": 80,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 203,
+    "weapon": "Greatsword",
+    "tier": "E",
+    "scaling": [
+      {
+        "str": "C"
+      },
+      {
+        "dex": "E"
+      }
+    ],
+    "skill": "Stamp (Upward Cut)",
+    "stats": {
+      "weight": 23,
+      "physical": 164,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 222,
+    "weapon": "Troll's Golden Sword",
+    "tier": "E",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Troll's Roar",
+    "stats": {
+      "weight": 19,
+      "physical": 155,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 269,
+    "weapon": "Maliketh's Black Blade",
+    "tier": "F",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "E"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": "Destined Death",
+    "stats": {
+      "weight": 22,
+      "physical": 127,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 296,
+    "weapon": "Watchdogs Greatsword",
+    "tier": "F",
+    "scaling": [
+      {
+        "str": "C"
+      },
+      {
+        "dex": "E"
+      }
+    ],
+    "skill": "Stamp (Upward Cut)",
+    "stats": {
+      "weight": 22,
+      "physical": 142,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 300,
+    "weapon": "Zweihander",
+    "tier": "F",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Stamp (Upward Cut)",
+    "stats": {
+      "weight": 15.5,
+      "physical": 141,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  }
+]

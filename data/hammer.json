@@ -1,0 +1,334 @@
+[
+  {
+    "id": 15,
+    "weapon": "Scepter of the All-Knowing",
+    "tier": "S",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "int": "D"
+      }
+    ],
+    "skill": "Knowledge Above All",
+    "stats": {
+      "weight": 4.5,
+      "physical": 99,
+      "magic": 64,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 35,
+    "weapon": "Envoy's Horn",
+    "tier": "A",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": "Oracular Bubble",
+    "stats": {
+      "weight": 4,
+      "physical": 96,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 62
+    }
+  },
+  {
+    "id": 84,
+    "weapon": "Hammer",
+    "tier": "B",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Kick",
+    "stats": {
+      "weight": 6.5,
+      "physical": 124,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 88,
+    "weapon": "Marika's Hammer",
+    "tier": "B",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": "Gold Breaker",
+    "stats": {
+      "weight": 6,
+      "physical": 101,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 65
+    }
+  },
+  {
+    "id": 89,
+    "weapon": "Monk's Flamemace",
+    "tier": "B",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Kick",
+    "stats": {
+      "weight": 6,
+      "physical": 126,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 90,
+    "weapon": "Nox Flowing Hammer",
+    "tier": "B",
+    "scaling": [
+      {
+        "str": "C"
+      },
+      {
+        "dex": "E"
+      }
+    ],
+    "skill": "Silver Scourge",
+    "stats": {
+      "weight": 6.5,
+      "physical": 122,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 92,
+    "weapon": "Ringed Finger",
+    "tier": "B",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Claw Flick",
+    "stats": {
+      "weight": 4.5,
+      "physical": 121,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 100,
+    "weapon": "Stone Club",
+    "tier": "B",
+    "scaling": [
+      {
+        "str": "C"
+      },
+      {
+        "dex": "E"
+      }
+    ],
+    "skill": "Kick",
+    "stats": {
+      "weight": 7,
+      "physical": 122,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 114,
+    "weapon": "Curved Club",
+    "tier": "C",
+    "scaling": [{}],
+    "skill": "",
+    "stats": {
+      "weight": 5,
+      "physical": 114,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 121,
+    "weapon": "Mace",
+    "tier": "C",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Kick",
+    "stats": {
+      "weight": 4.5,
+      "physical": 115,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 123,
+    "weapon": "Morning Star",
+    "tier": "C",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Kick",
+    "stats": {
+      "weight": 5,
+      "physical": 118,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 128,
+    "weapon": "Spiked Club",
+    "tier": "C",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Barbaric Roar",
+    "stats": {
+      "weight": 5,
+      "physical": 114,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 132,
+    "weapon": "Warpick",
+    "tier": "C",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Kick",
+    "stats": {
+      "weight": 2.5,
+      "physical": 108,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 143,
+    "weapon": "Club",
+    "tier": "D",
+    "scaling": [
+      {
+        "str": "C"
+      }
+    ],
+    "skill": "Barbaric Roar",
+    "stats": {
+      "weight": 3.5,
+      "physical": 103,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 292,
+    "weapon": "Varré's Bouquet",
+    "tier": "F",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "arc": "C"
+      }
+    ],
+    "skill": "Blood Tax",
+    "stats": {
+      "weight": 2,
+      "physical": 46,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  }
+]

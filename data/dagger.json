@@ -1,0 +1,375 @@
+[
+  {
+    "id": 2,
+    "weapon": "Crystal Knife",
+    "tier": "S",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "int": "D"
+      }
+    ],
+    "skill": "Quickstep",
+    "stats": {
+      "weight": 2,
+      "physical": 82,
+      "magic": 53,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 24,
+    "weapon": "Black Knife",
+    "tier": "A",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": "Blade of Death",
+    "stats": {
+      "weight": 2,
+      "physical": 66,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 65
+    }
+  },
+  {
+    "id": 25,
+    "weapon": "Blade of Calling",
+    "tier": "A",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "fai": "C"
+      }
+    ],
+    "skill": "Blade of Gold",
+    "stats": {
+      "weight": 1.5,
+      "physical": 71,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 43
+    }
+  },
+  {
+    "id": 79,
+    "weapon": "Glintstone Kris",
+    "tier": "B",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "int": "D"
+      }
+    ],
+    "skill": "Glintstone Dart",
+    "stats": {
+      "weight": 1.5,
+      "physical": 57,
+      "magic": 68,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 85,
+    "weapon": "Ivory Sickle",
+    "tier": "B",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "int": "D"
+      }
+    ],
+    "skill": "Quickstep",
+    "stats": {
+      "weight": 2,
+      "physical": 60,
+      "magic": 60,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 91,
+    "weapon": "Reduvia",
+    "tier": "B",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "arc": "D"
+      }
+    ],
+    "skill": "Blood Blade",
+    "stats": {
+      "weight": 2.5,
+      "physical": 79,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 113,
+    "weapon": "Cinquedea",
+    "tier": "C",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "E"
+      }
+    ],
+    "skill": "Quickstep",
+    "stats": {
+      "weight": 3.5,
+      "physical": 98,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 160,
+    "weapon": "Misericorde",
+    "tier": "D",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Quickstep",
+    "stats": {
+      "weight": 2,
+      "physical": 92,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 177,
+    "weapon": "Wakizashi",
+    "tier": "D",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Quickstep",
+    "stats": {
+      "weight": 3,
+      "physical": 94,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 186,
+    "weapon": "Bloodstained Dagger",
+    "tier": "E",
+    "scaling": [
+      {
+        "str": "C"
+      },
+      {
+        "dex": "E"
+      }
+    ],
+    "skill": "Quickstep",
+    "stats": {
+      "weight": 2,
+      "physical": 81,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 191,
+    "weapon": "Celebrant's Sickle",
+    "tier": "E",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "C"
+      }
+    ],
+    "skill": "Quickstep",
+    "stats": {
+      "weight": 1.5,
+      "physical": 79,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 214,
+    "weapon": "Scorpion's Stinger",
+    "tier": "E",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "C"
+      }
+    ],
+    "skill": "Repeating Thrust",
+    "stats": {
+      "weight": 2.5,
+      "physical": 79,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 242,
+    "weapon": "Dagger",
+    "tier": "F",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "C"
+      }
+    ],
+    "skill": "Quickstep",
+    "stats": {
+      "weight": 1.5,
+      "physical": 74,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 244,
+    "weapon": "Erdsteel Dagger",
+    "tier": "F",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": "Quickstep",
+    "stats": {
+      "weight": 2,
+      "physical": 67,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 253,
+    "weapon": "Great Knife",
+    "tier": "F",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Quickstep",
+    "stats": {
+      "weight": 1.5,
+      "physical": 75,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 276,
+    "weapon": "Parrying Dagger",
+    "tier": "F",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "C"
+      }
+    ],
+    "skill": "Parry",
+    "stats": {
+      "weight": 1.5,
+      "physical": 75,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  }
+]

@@ -1,0 +1,465 @@
+[
+  {
+    "id": 0,
+    "weapon": "Blasphemous Blade",
+    "tier": "S",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": "Taker's Flames",
+    "stats": {
+      "weight": 13.5,
+      "physical": 121,
+      "magic": 0,
+      "fire": 78,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 3,
+    "weapon": "Dark Moon Greatsword",
+    "tier": "S",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "int": "C"
+      }
+    ],
+    "skill": "Moonlight Greatsword",
+    "stats": {
+      "weight": 10,
+      "physical": 82,
+      "magic": 98,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 45,
+    "weapon": "Helphen's Steeple",
+    "tier": "A",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "E"
+      },
+      {
+        "int": "D"
+      }
+    ],
+    "skill": "Ruinous Ghostflame",
+    "stats": {
+      "weight": 11.5,
+      "physical": 101,
+      "magic": 101,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 48,
+    "weapon": "Inseparable Sword",
+    "tier": "A",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "fai": "C"
+      }
+    ],
+    "skill": "Sacred Blade",
+    "stats": {
+      "weight": 10,
+      "physical": 98,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 98
+    }
+  },
+  {
+    "id": 52,
+    "weapon": "Marais Executioner's Sword",
+    "tier": "A",
+    "scaling": [
+      {
+        "str": "C"
+      },
+      {
+        "dex": "E"
+      },
+      {
+        "arc": "D"
+      }
+    ],
+    "skill": "Eochaid's Dancing Blade",
+    "stats": {
+      "weight": 11.5,
+      "physical": 94,
+      "magic": 61,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 80,
+    "weapon": "Golden Order Greatsword",
+    "tier": "B",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "fai": "C"
+      }
+    ],
+    "skill": "Establishing Order",
+    "stats": {
+      "weight": 10,
+      "physical": 86,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 103
+    }
+  },
+  {
+    "id": 96,
+    "weapon": "Sacred Relic Sword",
+    "tier": "B",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": "Waves of Gold",
+    "stats": {
+      "weight": 11,
+      "physical": 118,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 76
+    }
+  },
+  {
+    "id": 124,
+    "weapon": "Ordovis's Greatsword",
+    "tier": "C",
+    "scaling": [
+      {
+        "str": "C"
+      },
+      {
+        "dex": "E"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": "Ordovis's Vortex",
+    "stats": {
+      "weight": 12,
+      "physical": 107,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 69
+    }
+  },
+  {
+    "id": 135,
+    "weapon": "Alabaster Lord's Sword",
+    "tier": "D",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "E"
+      },
+      {
+        "int": "D"
+      }
+    ],
+    "skill": "Alabaster Lords' Pull",
+    "stats": {
+      "weight": 8,
+      "physical": 128,
+      "magic": 38,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 146,
+    "weapon": "Death's Poker",
+    "tier": "D",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "int": "E"
+      }
+    ],
+    "skill": "Ghostflame Ignition",
+    "stats": {
+      "weight": 8.5,
+      "physical": 123,
+      "magic": 36,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 208,
+    "weapon": "Iron Greatsword",
+    "tier": "E",
+    "scaling": [{}],
+    "skill": "",
+    "stats": {
+      "weight": 12,
+      "physical": 149,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 230,
+    "weapon": "Banished Knight's Greatsword",
+    "tier": "F",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Stamp (Upward Cut)",
+    "stats": {
+      "weight": 10,
+      "physical": 142,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 232,
+    "weapon": "Bastard Sword",
+    "tier": "F",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Stamp (Upward Cut)",
+    "stats": {
+      "weight": 9,
+      "physical": 138,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 238,
+    "weapon": "Claymore",
+    "tier": "F",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Lion's Claw",
+    "stats": {
+      "weight": 9,
+      "physical": 138,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 245,
+    "weapon": "Flamberge",
+    "tier": "F",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "C"
+      }
+    ],
+    "skill": "Stamp (Upward Cut)",
+    "stats": {
+      "weight": 10,
+      "physical": 129,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 246,
+    "weapon": "Forked Greatsword",
+    "tier": "F",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Stamp (Upward Cut)",
+    "stats": {
+      "weight": 9,
+      "physical": 124,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 249,
+    "weapon": "Gargoyle's Greatsword",
+    "tier": "F",
+    "scaling": [
+      {
+        "str": "C"
+      },
+      {
+        "dex": "E"
+      }
+    ],
+    "skill": "Vacuum Slice",
+    "stats": {
+      "weight": 11.5,
+      "physical": 133,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 262,
+    "weapon": "Knight's Greatsword",
+    "tier": "F",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Stamp (Upward Cut)",
+    "stats": {
+      "weight": 10,
+      "physical": 141,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 266,
+    "weapon": "Lordsworn's Greatsword",
+    "tier": "F",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Stamp (Upward Cut)",
+    "stats": {
+      "weight": 9,
+      "physical": 136,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 289,
+    "weapon": "Sword of Milos",
+    "tier": "F",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Shriek of Milos",
+    "stats": {
+      "weight": 10,
+      "physical": 141,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  }
+]

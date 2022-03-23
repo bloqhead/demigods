@@ -1,0 +1,316 @@
+[
+  {
+    "id": 5,
+    "weapon": "Fallingstar Beast Jaw",
+    "tier": "S",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "int": "E"
+      }
+    ],
+    "skill": "Gravity Bolt",
+    "stats": {
+      "weight": 21.5,
+      "physical": 131,
+      "magic": 85,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 31,
+    "weapon": "Dragon Greatclaw",
+    "tier": "A",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Endure",
+    "stats": {
+      "weight": 16,
+      "physical": 120,
+      "magic": 0,
+      "fire": 0,
+      "light": 78,
+      "holy": 0
+    }
+  },
+  {
+    "id": 34,
+    "weapon": "Envoy's Greathorn",
+    "tier": "A",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "fai": "E"
+      }
+    ],
+    "skill": "Great Oracular Bubble",
+    "stats": {
+      "weight": 19.5,
+      "physical": 121,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 78
+    }
+  },
+  {
+    "id": 55,
+    "weapon": "Prelate's Inferno Crozier",
+    "tier": "A",
+    "scaling": [
+      {
+        "str": "C"
+      },
+      {
+        "dex": "E"
+      }
+    ],
+    "skill": "Prelate's Charge",
+    "stats": {
+      "weight": 23.5,
+      "physical": 156,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 59,
+    "weapon": "Staff of the Avatar",
+    "tier": "A",
+    "scaling": [
+      {
+        "str": "C"
+      },
+      {
+        "dex": "E"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": "Erdtree Slam",
+    "stats": {
+      "weight": 20,
+      "physical": 113,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 73
+    }
+  },
+  {
+    "id": 110,
+    "weapon": "Axe of Godfrey",
+    "tier": "C",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Regal Roar",
+    "stats": {
+      "weight": 18,
+      "physical": 165,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 115,
+    "weapon": "Duelist Greataxe",
+    "tier": "C",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Endure",
+    "stats": {
+      "weight": 20,
+      "physical": 170,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 126,
+    "weapon": "Rotten Greataxe",
+    "tier": "C",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Endure",
+    "stats": {
+      "weight": 20,
+      "physical": 162,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 127,
+    "weapon": "Rotten Staff",
+    "tier": "C",
+    "scaling": [
+      {
+        "str": "C"
+      },
+      {
+        "dex": "E"
+      }
+    ],
+    "skill": "Erdtree Slam",
+    "stats": {
+      "weight": 18,
+      "physical": 165,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 131,
+    "weapon": "Troll's Hammer",
+    "tier": "C",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "E"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": "Troll's Roar",
+    "stats": {
+      "weight": 16,
+      "physical": 153,
+      "magic": 0,
+      "fire": 45,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 133,
+    "weapon": "Watchdog's Staff",
+    "tier": "C",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Sorcery of the Crozier",
+    "stats": {
+      "weight": 19,
+      "physical": 165,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 151,
+    "weapon": "Ghiza's Wheel",
+    "tier": "D",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Spinning Wheel",
+    "stats": {
+      "weight": 19,
+      "physical": 156,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 152,
+    "weapon": "Giant-Crusher",
+    "tier": "D",
+    "scaling": [
+      {
+        "str": "C"
+      }
+    ],
+    "skill": "Endure",
+    "stats": {
+      "weight": 26.5,
+      "physical": 155,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 154,
+    "weapon": "Great Club",
+    "tier": "D",
+    "scaling": [
+      {
+        "str": "C"
+      }
+    ],
+    "skill": "Golden Land",
+    "stats": {
+      "weight": 17,
+      "physical": 154,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  }
+]

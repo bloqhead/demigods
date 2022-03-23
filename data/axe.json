@@ -1,0 +1,310 @@
+[
+  {
+    "id": 75,
+    "weapon": "Gargoyle's Black Axe",
+    "tier": "B",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "E"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": "War Cry",
+    "stats": {
+      "weight": 8.5,
+      "physical": 100,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 120
+    }
+  },
+  {
+    "id": 93,
+    "weapon": "Rosus' Axe",
+    "tier": "B",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "E"
+      },
+      {
+        "int": "D"
+      }
+    ],
+    "skill": "Rosus's Summons",
+    "stats": {
+      "weight": 5.5,
+      "physical": 106,
+      "magic": 68,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 184,
+    "weapon": "Battle Axe",
+    "tier": "E",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Wild Strikes",
+    "stats": {
+      "weight": 4.5,
+      "physical": 123,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 189,
+    "weapon": "Celebrant's Cleaver",
+    "tier": "E",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Wild Strkes",
+    "stats": {
+      "weight": 4.5,
+      "physical": 119,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 205,
+    "weapon": "Highland Axe",
+    "tier": "E",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "War Cry",
+    "stats": {
+      "weight": 4.5,
+      "physical": 123,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 207,
+    "weapon": "Iron Cleaver",
+    "tier": "E",
+    "scaling": [
+      {
+        "str": "C"
+      },
+      {
+        "dex": "E"
+      }
+    ],
+    "skill": "Wild Strikes",
+    "stats": {
+      "weight": 6,
+      "physical": 120,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 209,
+    "weapon": "Jawbone Axe",
+    "tier": "E",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "E"
+      }
+    ],
+    "skill": "Wild Strikes",
+    "stats": {
+      "weight": 5.5,
+      "physical": 124,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 213,
+    "weapon": "Sacrificial Axe",
+    "tier": "E",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Wild Strikes",
+    "stats": {
+      "weight": 5.5,
+      "physical": 128,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 221,
+    "weapon": "Stormhawk Axe",
+    "tier": "E",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Thunderstorm",
+    "stats": {
+      "weight": 5.5,
+      "physical": 130,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 224,
+    "weapon": "Warped Axe",
+    "tier": "E",
+    "scaling": [
+      {
+        "str": "C"
+      }
+    ],
+    "skill": "War Cry",
+    "stats": {
+      "weight": 7.5,
+      "physical": 118,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 247,
+    "weapon": "Forked Hatchet",
+    "tier": "F",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Quickstep",
+    "stats": {
+      "weight": 2.5,
+      "physical": 101,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 255,
+    "weapon": "Hand Axe",
+    "tier": "F",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Quickstep",
+    "stats": {
+      "weight": 3.5,
+      "physical": 113,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 259,
+    "weapon": "Icerind Hatchet",
+    "tier": "F",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Hoarfrost Stomp",
+    "stats": {
+      "weight": 3,
+      "physical": 111,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 282,
+    "weapon": "Ripple Blade",
+    "tier": "F",
+    "scaling": [
+      {
+        "arc": "A"
+      }
+    ],
+    "skill": "Wild Strkes",
+    "stats": {
+      "weight": 4.5,
+      "physical": 70,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  }
+]

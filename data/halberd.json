@@ -1,0 +1,381 @@
+[
+  {
+    "id": 40,
+    "weapon": "Golden Halberd",
+    "tier": "A",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "E"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": "Golden Vow",
+    "stats": {
+      "weight": 13.5,
+      "physical": 134,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 87
+    }
+  },
+  {
+    "id": 76,
+    "weapon": "Gargoyle's Black Halberd",
+    "tier": "B",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "E"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": "Spinning Slash",
+    "stats": {
+      "weight": 12,
+      "physical": 103,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 123
+    }
+  },
+  {
+    "id": 86,
+    "weapon": "Loretta's War Sickle",
+    "tier": "B",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "int": "D"
+      }
+    ],
+    "skill": "Loretta's Slash",
+    "stats": {
+      "weight": 10,
+      "physical": 110,
+      "magic": 71,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 153,
+    "weapon": "Golem's Halberd",
+    "tier": "D",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Charge Forth",
+    "stats": {
+      "weight": 21.5,
+      "physical": 158,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 192,
+    "weapon": "Commander's Standard",
+    "tier": "E",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Rallying Standard",
+    "stats": {
+      "weight": 11.5,
+      "physical": 138,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 195,
+    "weapon": "Dragon Halberd",
+    "tier": "E",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Spinning Slash",
+    "stats": {
+      "weight": 10.5,
+      "physical": 135,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 198,
+    "weapon": "Gargoyle's Halberd",
+    "tier": "E",
+    "scaling": [
+      {
+        "str": "C"
+      },
+      {
+        "dex": "E"
+      }
+    ],
+    "skill": "Spinning Slash",
+    "stats": {
+      "weight": 12,
+      "physical": 131,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 199,
+    "weapon": "Glaive",
+    "tier": "E",
+    "scaling": [{}],
+    "skill": "Spinning Slash",
+    "stats": {
+      "weight": 10,
+      "physical": 132,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 204,
+    "weapon": "Guardian's Swordspear",
+    "tier": "E",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "C"
+      }
+    ],
+    "skill": "Spinning Slash",
+    "stats": {
+      "weight": 9,
+      "physical": 139,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 231,
+    "weapon": "Banished Knight's Halberd",
+    "tier": "F",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Charge Forth",
+    "stats": {
+      "weight": 8,
+      "physical": 125,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 254,
+    "weapon": "Halberd",
+    "tier": "F",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Charge Forth",
+    "stats": {
+      "weight": 8,
+      "physical": 125,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 268,
+    "weapon": "Lucerne",
+    "tier": "F",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "C"
+      }
+    ],
+    "skill": "Charge Forth",
+    "stats": {
+      "weight": 7,
+      "physical": 121,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 272,
+    "weapon": "Nightrider Glaive",
+    "tier": "F",
+    "scaling": [
+      {
+        "str": "C"
+      },
+      {
+        "dex": "E"
+      }
+    ],
+    "skill": "Spinning Slash",
+    "stats": {
+      "weight": 12,
+      "physical": 129,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 277,
+    "weapon": "Pest's Glaive",
+    "tier": "F",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Spinning Slash",
+    "stats": {
+      "weight": 7,
+      "physical": 120,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 283,
+    "weapon": "Ripple Crescent Halberd",
+    "tier": "F",
+    "scaling": [
+      {
+        "str": "?"
+      },
+      {
+        "dex": "?"
+      },
+      {
+        "arc": "B"
+      }
+    ],
+    "skill": "Spinning Slash",
+    "stats": {
+      "weight": 8.5,
+      "physical": 86,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 293,
+    "weapon": "Vulgar Militia Saw",
+    "tier": "F",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Spinning Slash",
+    "stats": {
+      "weight": 8,
+      "physical": 126,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 294,
+    "weapon": "Vulgar Militia Shotel",
+    "tier": "F",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "C"
+      }
+    ],
+    "skill": "Spinning Slash",
+    "stats": {
+      "weight": 8,
+      "physical": 121,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  }
+]

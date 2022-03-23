@@ -1,0 +1,118 @@
+[
+  {
+    "id": 22,
+    "weapon": "Bastard's Stars",
+    "tier": "A",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "int": "C"
+      }
+    ],
+    "skill": "Nebula",
+    "stats": {
+      "weight": 5.5,
+      "physical": 65,
+      "magic": 78,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 38,
+    "weapon": "Family Heads",
+    "tier": "A",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "C"
+      },
+      {
+        "int": "E"
+      }
+    ],
+    "skill": "Familial Rancor",
+    "stats": {
+      "weight": 5.5,
+      "physical": 87,
+      "magic": 56,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 141,
+    "weapon": "Chainlink Flail",
+    "tier": "D",
+    "scaling": [
+      {
+        "str": "C"
+      },
+      {
+        "dex": "E"
+      }
+    ],
+    "skill": "Spinning Chain",
+    "stats": {
+      "weight": 8,
+      "physical": 109,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 149,
+    "weapon": "Flail",
+    "tier": "D",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Spinning Chain",
+    "stats": {
+      "weight": 5,
+      "physical": 109,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 161,
+    "weapon": "Nightrider Flail",
+    "tier": "D",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "C"
+      }
+    ],
+    "skill": "Spinning Chain",
+    "stats": {
+      "weight": 6,
+      "physical": 112,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  }
+]

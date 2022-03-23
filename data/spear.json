@@ -1,0 +1,338 @@
+[
+  {
+    "id": 1,
+    "weapon": "Bolt of Gransax",
+    "tier": "S",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Ancient Lightning Spear",
+    "stats": {
+      "weight": 8.5,
+      "physical": 98,
+      "magic": 0,
+      "fire": 0,
+      "light": 63,
+      "holy": 0
+    }
+  },
+  {
+    "id": 29,
+    "weapon": "Death Ritual Spear",
+    "tier": "A",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "int": "D"
+      }
+    ],
+    "skill": "Spearcall Ritual",
+    "stats": {
+      "weight": 6.5,
+      "physical": 99,
+      "magic": 64,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 47,
+    "weapon": "Inquisitor's Girandole",
+    "tier": "A",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": "Charge Forth",
+    "stats": {
+      "weight": 7.5,
+      "physical": 102,
+      "magic": 0,
+      "fire": 66,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 72,
+    "weapon": "Clayman's Harpoon",
+    "tier": "B",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "E"
+      },
+      {
+        "int": "D"
+      }
+    ],
+    "skill": "Impaling Thrust",
+    "stats": {
+      "weight": 5.5,
+      "physical": 99,
+      "magic": 64,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 73,
+    "weapon": "Crystal Spear",
+    "tier": "B",
+    "scaling": [{}],
+    "skill": "",
+    "stats": {
+      "weight": 5.5,
+      "physical": 110,
+      "magic": 33,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 94,
+    "weapon": "Rotten Crystal Spear",
+    "tier": "B",
+    "scaling": [{}],
+    "skill": "",
+    "stats": {
+      "weight": 5.5,
+      "physical": 104,
+      "magic": 31,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 101,
+    "weapon": "Torchpole",
+    "tier": "B",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "fai": "E"
+      }
+    ],
+    "skill": "Charge Forth",
+    "stats": {
+      "weight": 6,
+      "physical": 104,
+      "magic": 0,
+      "fire": 31,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 144,
+    "weapon": "Cross-Naginata",
+    "tier": "D",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "C"
+      }
+    ],
+    "skill": "Impaling Thrust",
+    "stats": {
+      "weight": 8,
+      "physical": 122,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 157,
+    "weapon": "Iron Spear",
+    "tier": "D",
+    "scaling": [{}],
+    "skill": "",
+    "stats": {
+      "weight": 0,
+      "physical": 114,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 164,
+    "weapon": "Partisan",
+    "tier": "D",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Impaling Thrust",
+    "stats": {
+      "weight": 6.5,
+      "physical": 123,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 166,
+    "weapon": "Pike",
+    "tier": "D",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Charge Forth",
+    "stats": {
+      "weight": 7.5,
+      "physical": 115,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 172,
+    "weapon": "Spear",
+    "tier": "D",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Impaling Thrust",
+    "stats": {
+      "weight": 4.5,
+      "physical": 114,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 173,
+    "weapon": "Spiked Spear",
+    "tier": "D",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Impaling Thrust",
+    "stats": {
+      "weight": 6,
+      "physical": 120,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 190,
+    "weapon": "Celebrant's Rib-Rake",
+    "tier": "E",
+    "scaling": [{}],
+    "skill": "",
+    "stats": {
+      "weight": 5,
+      "physical": 109,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 218,
+    "weapon": "Short Spear",
+    "tier": "E",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Impaling Thrust",
+    "stats": {
+      "weight": 4,
+      "physical": 112,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 298,
+    "weapon": "Winged Spear",
+    "tier": "F",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "C"
+      }
+    ],
+    "skill": "Charge Forth",
+    "stats": {
+      "weight": 4.5,
+      "physical": 78,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  }
+]

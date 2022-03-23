@@ -1,0 +1,107 @@
+[
+  {
+    "id": 6,
+    "weapon": "Full Moon Crossbow",
+    "tier": "S",
+    "scaling": [{}],
+    "skill": "Kick",
+    "stats": {
+      "weight": 2.5,
+      "physical": 50,
+      "magic": 50,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 183,
+    "weapon": "Arbalest",
+    "tier": "E",
+    "scaling": [{}],
+    "skill": "Kick",
+    "stats": {
+      "weight": 6,
+      "physical": 69,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 193,
+    "weapon": "Crepus's Black-Key Crossbow",
+    "tier": "E",
+    "scaling": [{}],
+    "skill": "Kick",
+    "stats": {
+      "weight": 5,
+      "physical": 68,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 258,
+    "weapon": "Heavy Crossbow",
+    "tier": "F",
+    "scaling": [{}],
+    "skill": "Kick",
+    "stats": {
+      "weight": 6.5,
+      "physical": 64,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 264,
+    "weapon": "Light Crossbow",
+    "tier": "F",
+    "scaling": [{}],
+    "skill": "Kick",
+    "stats": {
+      "weight": 4,
+      "physical": 58,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 278,
+    "weapon": "Pulley Crossbow",
+    "tier": "F",
+    "scaling": [{}],
+    "skill": "Kick",
+    "stats": {
+      "weight": 4,
+      "physical": 65,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 287,
+    "weapon": "Soldier's Crossbow",
+    "tier": "F",
+    "scaling": [{}],
+    "skill": "Kick",
+    "stats": {
+      "weight": 3.5,
+      "physical": 54,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  }
+]

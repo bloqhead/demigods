@@ -1,0 +1,306 @@
+[
+  {
+    "id": 23,
+    "weapon": "Beastclaw Greathammer",
+    "tier": "A",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": "Regal Beastclaw",
+    "stats": {
+      "weight": 9,
+      "physical": 116,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 75
+    }
+  },
+  {
+    "id": 27,
+    "weapon": "Cranial Vessel Candlestand",
+    "tier": "A",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "E"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": "Surge of Faith",
+    "stats": {
+      "weight": 12.5,
+      "physical": 98,
+      "magic": 0,
+      "fire": 98,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 30,
+    "weapon": "Devourer's Scepter",
+    "tier": "A",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": "Devourer of Worlds",
+    "stats": {
+      "weight": 11.5,
+      "physical": 107,
+      "magic": 0,
+      "fire": 69,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 36,
+    "weapon": "Envoy's Long Horn",
+    "tier": "A",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": "Bubble Shower",
+    "stats": {
+      "weight": 9.5,
+      "physical": 120,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 78
+    }
+  },
+  {
+    "id": 140,
+    "weapon": "Celebrant's Skull",
+    "tier": "D",
+    "scaling": [{}],
+    "skill": "Barbaric Roar",
+    "stats": {
+      "weight": 8.5,
+      "physical": 138,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 145,
+    "weapon": "Curved Great Club",
+    "tier": "D",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Barbaric Roar",
+    "stats": {
+      "weight": 10,
+      "physical": 145,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 155,
+    "weapon": "Great Stars",
+    "tier": "D",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Endure",
+    "stats": {
+      "weight": 10,
+      "physical": 135,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 165,
+    "weapon": "Pickaxe",
+    "tier": "D",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Endure",
+    "stats": {
+      "weight": 10,
+      "physical": 144,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 185,
+    "weapon": "Battle Hammer",
+    "tier": "E",
+    "scaling": [
+      {
+        "str": "C"
+      },
+      {
+        "dex": "E"
+      }
+    ],
+    "skill": "Braggart's Roar",
+    "stats": {
+      "weight": 10,
+      "physical": 131,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 201,
+    "weapon": "Great Mace",
+    "tier": "E",
+    "scaling": [
+      {
+        "str": "C"
+      }
+    ],
+    "skill": "Endure",
+    "stats": {
+      "weight": 11.5,
+      "physical": 134,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 202,
+    "weapon": "Greathorn Hammer",
+    "tier": "E",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Barbaric Roar",
+    "stats": {
+      "weight": 10,
+      "physical": 134,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 210,
+    "weapon": "Large Club",
+    "tier": "E",
+    "scaling": [
+      {
+        "str": "C"
+      }
+    ],
+    "skill": "Barbaric Roar",
+    "stats": {
+      "weight": 8.5,
+      "physical": 131,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 212,
+    "weapon": "Rotten Battle Hammer",
+    "tier": "E",
+    "scaling": [
+      {
+        "str": "C"
+      },
+      {
+        "dex": "E"
+      }
+    ],
+    "skill": "Braggart's Roar",
+    "stats": {
+      "weight": 10,
+      "physical": 126,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 234,
+    "weapon": "Brick Hammer",
+    "tier": "F",
+    "scaling": [
+      {
+        "str": "B"
+      }
+    ],
+    "skill": "Barbaric Roar",
+    "stats": {
+      "weight": 12.5,
+      "physical": 122,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  }
+]

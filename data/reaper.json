@@ -1,0 +1,96 @@
+[
+  {
+    "id": 17,
+    "weapon": "Winged Scythe",
+    "tier": "S",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": "Angel's Wings",
+    "stats": {
+      "weight": 7.5,
+      "physical": 87,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 104
+    }
+  },
+  {
+    "id": 43,
+    "weapon": "Halo Scythe",
+    "tier": "A",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "fai": "E"
+      }
+    ],
+    "skill": "Miquella's Ring of Light",
+    "stats": {
+      "weight": 8.5,
+      "physical": 118,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 76
+    }
+  },
+  {
+    "id": 116,
+    "weapon": "Grave Scythe",
+    "tier": "C",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Spinning Slash",
+    "stats": {
+      "weight": 9.5,
+      "physical": 144,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 215,
+    "weapon": "Scythe",
+    "tier": "E",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "C"
+      }
+    ],
+    "skill": "Spinning Slash",
+    "stats": {
+      "weight": 7.5,
+      "physical": 125,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  }
+]

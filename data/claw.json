@@ -1,0 +1,90 @@
+[
+  {
+    "id": 112,
+    "weapon": "Bloodhound Claws",
+    "tier": "C",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Bloodhound's Step",
+    "stats": {
+      "weight": 3,
+      "physical": 94,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 176,
+    "weapon": "Venomous Fang",
+    "tier": "D",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Quickstep",
+    "stats": {
+      "weight": 2.5,
+      "physical": 92,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 206,
+    "weapon": "Hookclaws",
+    "tier": "E",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "C"
+      }
+    ],
+    "skill": "Quickstep",
+    "stats": {
+      "weight": 2,
+      "physical": 89,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 280,
+    "weapon": "Raptor Talons",
+    "tier": "F",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "C"
+      }
+    ],
+    "skill": "Quickstep",
+    "stats": {
+      "weight": 1.5,
+      "physical": 83,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  }
+]

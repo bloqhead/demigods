@@ -1,0 +1,186 @@
+[
+  {
+    "id": 37,
+    "weapon": "Executioner's Greataxe",
+    "tier": "A",
+    "scaling": [
+      {
+        "str": "C"
+      },
+      {
+        "dex": "E"
+      }
+    ],
+    "skill": "War Cry",
+    "stats": {
+      "weight": 15,
+      "physical": 150,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 70,
+    "weapon": "Axe of Godrick",
+    "tier": "B",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "I Command Thee, Kneel!",
+    "stats": {
+      "weight": 11,
+      "physical": 142,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 82,
+    "weapon": "Great Omenkiller Cleaver",
+    "tier": "B",
+    "scaling": [{}],
+    "skill": "",
+    "stats": {
+      "weight": 11,
+      "physical": 142,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 83,
+    "weapon": "Greataxe",
+    "tier": "B",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Barbaric Roar",
+    "stats": {
+      "weight": 13,
+      "physical": 151,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 95,
+    "weapon": "Rusted Anchor",
+    "tier": "B",
+    "scaling": [
+      {
+        "str": "C"
+      },
+      {
+        "dex": "E"
+      }
+    ],
+    "skill": "Barbaric Roar",
+    "stats": {
+      "weight": 12.5,
+      "physical": 147,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 120,
+    "weapon": "Longhaft Axe",
+    "tier": "C",
+    "scaling": [{}],
+    "skill": "",
+    "stats": {
+      "weight": 12.5,
+      "physical": 146,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 139,
+    "weapon": "Butchering Knife",
+    "tier": "D",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "C"
+      }
+    ],
+    "skill": "Barbaric Roar",
+    "stats": {
+      "weight": 8.5,
+      "physical": 134,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 225,
+    "weapon": "Winged Greathorn",
+    "tier": "E",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Soul Stifler",
+    "stats": {
+      "weight": 11,
+      "physical": 130,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 248,
+    "weapon": "Gargoyle's Great Axe",
+    "tier": "F",
+    "scaling": [
+      {
+        "str": "C"
+      },
+      {
+        "dex": "E"
+      }
+    ],
+    "skill": "War Cry",
+    "stats": {
+      "weight": 0,
+      "physical": 123,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  }
+]

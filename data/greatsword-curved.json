@@ -1,0 +1,192 @@
+[
+  {
+    "id": 11,
+    "weapon": "Onyx Lord's Greatsword",
+    "tier": "S",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "E"
+      },
+      {
+        "int": "D"
+      }
+    ],
+    "skill": "Onyx Lord's Repulsion",
+    "stats": {
+      "weight": 11.5,
+      "physical": 118,
+      "magic": 76,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 51,
+    "weapon": "Magma Wyrm's Scalesword",
+    "tier": "A",
+    "scaling": [
+      {
+        "str": "C"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "fai": "D"
+      }
+    ],
+    "skill": "Magma Guillotine",
+    "stats": {
+      "weight": 15,
+      "physical": 114,
+      "magic": 0,
+      "fire": 74,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 54,
+    "weapon": "Morgott's Cursed Sword",
+    "tier": "A",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "C"
+      }
+    ],
+    "skill": "Cursed-Blood Slice",
+    "stats": {
+      "weight": 7.5,
+      "physical": 123,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 136,
+    "weapon": "Beastman's Cleaver",
+    "tier": "D",
+    "scaling": [{}],
+    "skill": "",
+    "stats": {
+      "weight": 16.5,
+      "physical": 143,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 138,
+    "weapon": "Bloodhound's Fang",
+    "tier": "D",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "C"
+      }
+    ],
+    "skill": "Bloodhound's Finesse",
+    "stats": {
+      "weight": 11.5,
+      "physical": 141,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 163,
+    "weapon": "Omen Cleaver",
+    "tier": "D",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Spinning Slash",
+    "stats": {
+      "weight": 11.5,
+      "physical": 142,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 194,
+    "weapon": "Dismounter",
+    "tier": "E",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Spinning Slash",
+    "stats": {
+      "weight": 10,
+      "physical": 138,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 211,
+    "weapon": "Monk's Flameblade",
+    "tier": "E",
+    "scaling": [{}],
+    "skill": "",
+    "stats": {
+      "weight": 9,
+      "physical": 134,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 299,
+    "weapon": "Zamor Curved Sword",
+    "tier": "F",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Zamor Ice Storm",
+    "stats": {
+      "weight": 9,
+      "physical": 125,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "id": 13,
+    "weapon": "Rogier's Rapier",
+    "tier": "S",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "C"
+      }
+    ],
+    "skill": "Glintblade Phalanx",
+    "stats": {
+      "weight": 3.5,
+      "physical": 136,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 69,
+    "weapon": "Antspur Rapier",
+    "tier": "B",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Impaling Thrust",
+    "stats": {
+      "weight": 3,
+      "physical": 98,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 74,
+    "weapon": "Frozen Needle",
+    "tier": "B",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Impaling Thrust",
+    "stats": {
+      "weight": 2.5,
+      "physical": 99,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 142,
+    "weapon": "Cleanrot Knight's Sword",
+    "tier": "D",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Impaling Thrust",
+    "stats": {
+      "weight": 4,
+      "physical": 109,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 197,
+    "weapon": "Estoc",
+    "tier": "E",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "C"
+      }
+    ],
+    "skill": "Impaling Thrust",
+    "stats": {
+      "weight": 4.5,
+      "physical": 107,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 273,
+    "weapon": "Noble's Estoc",
+    "tier": "F",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Impaling Thrust",
+    "stats": {
+      "weight": 3.5,
+      "physical": 104,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 279,
+    "weapon": "Rapier",
+    "tier": "F",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "C"
+      }
+    ],
+    "skill": "Impaling Thrust",
+    "stats": {
+      "weight": 2.5,
+      "physical": 96,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  }
+]

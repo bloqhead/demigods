@@ -1,0 +1,90 @@
+[
+  {
+    "id": 32,
+    "weapon": "Dragon King's Cragblade",
+    "tier": "A",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Thundercloud Form",
+    "stats": {
+      "weight": 8,
+      "physical": 92,
+      "magic": 0,
+      "fire": 0,
+      "light": 59,
+      "holy": 0
+    }
+  },
+  {
+    "id": 187,
+    "weapon": "Bloody Helice",
+    "tier": "E",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Dynast's Finesse",
+    "stats": {
+      "weight": 8,
+      "physical": 130,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 200,
+    "weapon": "Godskin Stitcher",
+    "tier": "E",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Impaling Thrust",
+    "stats": {
+      "weight": 7,
+      "physical": 127,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 252,
+    "weapon": "Great Epee",
+    "tier": "F",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Impaling Thrust",
+    "stats": {
+      "weight": 6.5,
+      "physical": 124,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  }
+]
