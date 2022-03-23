@@ -23,6 +23,12 @@ All endpoint examples are located in the `data` directory. Item slugs are derive
 * "Rosus' Axe" => `rosus-axe`
 * "Cleanrot Knight's Sword" => `cleanrot-knights-sword`
 
+## Roadmap / Ideas
+
+* Endpoints for things like armor and possibly special items
+* Move to something more flexible and robust, like SQLite
+* Toy with the idea of GraphQL
+
 ---
 
 _Elden Ring is property of BANDAI NAMCO. This is completely unofficial._
