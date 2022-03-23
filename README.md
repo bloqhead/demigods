@@ -1,6 +1,6 @@
 # ⚔️ D E M I G O D S ⚔️
 
-## An Elden Ring weapons data API
+## An [Elden Ring](https://en.bandainamcoent.eu/elden-ring/elden-ring) weapons data API
 
 v1.0 | [Homepage](https://demigods.vercel.app/)
 
@@ -22,3 +22,7 @@ All endpoint examples are located in the `data` directory. Item slugs are derive
 
 * "Rosus' Axe" => `rosus-axe`
 * "Cleanrot Knight's Sword" => `cleanrot-knights-sword`
+
+---
+
+_Elden Ring is property of BANDAI NAMCO. This is completely unofficial._
