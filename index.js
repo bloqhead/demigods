@@ -45,12 +45,13 @@ const fullFileList = async () => {
   const arr = []
 
   for (let i = 0; i < res.length; i++) {
-    const slug = `/${res[i].toLowerCase().replace('.json', '')}`
-    arr.push([
-      slug, `${slug}/tier/:tier`,
-      `${slug}/:id`,
-      `${slug}/:slug`
-    ])
+    const slug = `${res[i].toLowerCase().replace('.json', '')}`
+    arr.push({
+      slug, 
+      tier: `${slug}/tier/:tier`,
+      id: `${slug}/:id`,
+      fullSlug: `${slug}/:slug`,
+    })
   }
 
   return arr

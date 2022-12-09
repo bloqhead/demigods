@@ -51,13 +51,13 @@
 
     .items {}
 
-    .items>div {
+    .items > div {
       padding: 0.5em;
       margin: 0 0 4em 0;
       border-bottom: 1px solid #eee;
     }
 
-    .items>div:last-of-type {
+    .items > div:last-of-type {
       margin-bottom: 0;
     }
 
@@ -128,6 +128,7 @@
       color: #fff;
       padding: 1em 1.5em;
       border-radius: 5px;
+      border: 0;
       text-decoration: none;
       text-transform: uppercase;
       letter-spacing: 2px;
@@ -154,13 +155,45 @@
       margin: 0 0 1em 0;
       padding: 1em;
       border-bottom: 1px solid #eee;
-      background: #fff;
+      background: #eee;
+      border-radius: 1em;
+    }
+
+    .toc header {
+      display: flex;
+      align-items: center;
+      gap: 1em;
+      margin: 0;
+      padding: 0;
+    }
+
+    .toc header > div {
+      display: flex;
+      align-items: center;
+    }
+
+    .toc header h3 {
+      margin: 0;
+      padding: 0;
     }
 
     .toc ul {
       display: flex;
       flex-wrap: wrap;
       gap: 0.5em;
+      margin: 0;
+
+      visibility: hidden;
+      height: 0;
+      overflow: hidden;
+    }
+
+    .toc.active ul {
+      visibility: visible;
+      height: auto;
+      margin: 0.5em 0 0 0;
+      padding: 0.5em 0 0 0;
+      border-top: 1px solid #ccc;
     }
   </style>
 </head>
@@ -175,12 +208,21 @@
       </p>
     </header>
     <div class="toc">
-      <h3>Table of Contents:</h3>
+      <header>
+        <div>
+          <h3>Table of Contents:</h3>
+        </div>
+        <div>
+          <button class="btn sml toc-toggle">
+            <span class="toc-toggle-label">Show</span> ToC
+          </button>
+        </div>
+        </header>
       <ul>
         <% for(let i=0; i < items.length; i++) { %>
           <li>
-            <a class="btn sml" href="#<%= items[i][0] %>">
-              <%= items[i][0] %>
+            <a class="btn sml goto-link" href="#<%= items[i].slug %>" data-title="<%= items[i].slug %>">
+              /<%= items[i].slug %>
             </a>
           </li>
           <% } %>
@@ -188,25 +230,25 @@
     </div>
     <div class="items">
       <% for(let i=0; i < items.length; i++) { %>
-        <div>
-          <ul id="<%= items[i][0] %>">
+        <div id="<%= items[i].slug %>">
+          <ul>
             <li>
               <strong>Default:</strong>
-              <a href="/<%= version %><%= items[i][0] %>" target="_blank">
-                /<%= version + items[i][0] %>
+              <a href="/<%= version %>/<%= items[i].slug %>" target="_blank">
+                /<%= version %>/<%= items[i].slug %>
               </a>
             </li>
             <li>
               <strong>Tier:</strong>
-              <code>/<%= version %><%= items[i][1] %></code> <em>(e.g. /crossbow/tier/e)</em>
+              <code>/<%= version %>/<%= items[i].tier %></code> <em>(e.g. /crossbow/tier/e)</em>
             </li>
             <li>
               <strong>ID:</strong>
-              <code>/<%= version %><%= items[i][2] %></code> <em>(e.g. /crossbow/63)</em>
+              <code>/<%= version %>/<%= items[i].id %></code> <em>(e.g. /crossbow/63)</em>
             </li>
             <li>
               <strong>Slug:</strong>
-              <code>/<%= version %><%= items[i][2] %></code> <em>(e.g.
+              <code>/<%= version %>/<%= items[i].fullSlug %></code> <em>(e.g.
                 /crossbow/heavy-crossbow)</em>
             </li>
           </ul>
@@ -220,4 +262,40 @@
   </main>
 </body>
 
+<script>
+  const toggle = document.querySelector('.toc-toggle');
+  const toc = document.querySelector('.toc');
+  const label = document.querySelector('.toc-toggle-label');
+  const links = document.querySelectorAll('.goto-link');
+  let toggled = false;
+
+  toggle.addEventListener('click', (ev) => {
+    toc.classList.toggle('active');
+    toggled = !toggled;
+    toggled
+      ? label.innerHTML = 'Hide'
+      : label.innerHTML = 'Show';
+  });
+
+  links.forEach((i) => {
+    i.addEventListener('click', (ev) => {
+      toc.classList.remove('active');
+      toggled = false;
+      label.innerHTML = 'Show';
+
+      const hash = ev.target.hash;
+      const el = document.querySelector(hash);
+      const headerOffset = 80;
+      const elementPosition = el.getBoundingClientRect().top;
+      const offsetPosition = elementPosition + window.pageYOffset - headerOffset;
+
+      ev.preventDefault();
+
+      window.scrollTo({
+        top: offsetPosition,
+        behavior: 'smooth',
+      });
+    });
+  });
+</script>
 </html>
