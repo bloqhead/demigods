@@ -10,6 +10,7 @@ Built on Node and [Express](https://expressjs.com/). Hosted on [Vercel](https://
 
 ### Examples
 
+* **Category List:** `https://demigods.vercel.app/v1/categories/`
 * **All items:** `https://demigods.vercel.app/v1/all/`
 * **By Type:** `https://demigods.vercel.app/v1/axe/`
 * **By Tier:** `https://demigods.vercel.app/v1/axe/tier/e/`
@@ -31,4 +32,4 @@ All endpoint examples are located in the `data` directory. Item slugs are derive
 
 ---
 
-_Elden Ring is property of BANDAI NAMCO. This is completely unofficial._
+_Elden Ring is property of [BANDAI NAMCO](https://www.bandainamcoent.com/). This is completely unofficial._

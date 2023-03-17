@@ -57,6 +57,27 @@ const fullFileList = async () => {
   return arr
 }
 
+const fullCatList = async () => {
+  const res = await readDirAsync(dirName)
+  const arr = []
+  
+  function titleCase(str) {
+    return str.toLowerCase()
+      .replace('.json', '')
+      .split('-')
+      .map((s) => s.charAt(0).toUpperCase() + s.substring(1))
+      .join(' ')
+  }
+
+  for (let i = 0; i < res.length; i++) {
+    const label = titleCase(res[i])
+    const value = `${res[i].toLowerCase().replace('.json', '')}`
+    arr.push({ label, value })
+  }
+
+  return arr
+}
+
 //
 // Endpoints
 // 
@@ -69,7 +90,12 @@ app.get('/', async (req, res) => {
   })
 })
 
+// category list
+app.get(`/v${ver}/categories`, async (req, res) => {
+  res.json(await fullCatList())
+})
 
+// all additional endpoint handling
 readdir(dirName, (err, fileList) => {
   if (err) throw err
 

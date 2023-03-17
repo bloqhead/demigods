@@ -219,6 +219,11 @@
         </div>
         </header>
       <ul>
+        <li>
+          <a class="btn sml goto-link" href="#categories" data-title="categories">
+            Categories
+          </a>
+        </li>
         <% for(let i=0; i < items.length; i++) { %>
           <li>
             <a class="btn sml goto-link" href="#<%= items[i].slug %>" data-title="<%= items[i].slug %>">
@@ -229,6 +234,17 @@
       </ul>
     </div>
     <div class="items">
+      <div id="categories">
+        <ul>
+          <li>
+            <strong>Category List:</strong>
+            <a href="/<%= version %>/categories" target="_blank">
+              /<%= version %>/categories
+            </a>
+          </li>
+        </ul>
+        <p><a class="btn sml" href="#top">Top &uarr;</a></p>
+      </div>
       <% for(let i=0; i < items.length; i++) { %>
         <div id="<%= items[i].slug %>">
           <ul>
