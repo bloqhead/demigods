@@ -3,14 +3,7 @@
     "id": 119,
     "weapon": "Jar Cannon",
     "tier": "C",
-    "scaling": [
-      {
-        "str": "?"
-      },
-      {
-        "dex": "?"
-      }
-    ],
+    "scaling": [{}],
     "skill": "Kick",
     "stats": {
       "weight": 15,
@@ -25,14 +18,7 @@
     "id": 256,
     "weapon": "Hand Ballista",
     "tier": "F",
-    "scaling": [
-      {
-        "str": "?:"
-      },
-      {
-        "dex": "?:"
-      }
-    ],
+    "scaling": [{}],
     "skill": "Kick",
     "stats": {
       "weight": 10,
