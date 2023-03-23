@@ -15,6 +15,23 @@ const ver = 1
 // setup CORS
 app.use(cors())
 
+// cache control
+// https://regbrain.com/article/cache-headers-express-js
+let setCache = (req, res, next) => {
+  const period = 60 * 5 
+
+  if (req.method == 'GET') {
+    res.set('Cache-control', `public, max-age=${period}`)
+  } else {
+    res.set('Cache-control', `no-store`)
+  }
+
+  next()
+}
+
+// set cache control
+app.use(setCache)
+
 // set the rendering engine
 app.set('view engine', 'ejs');
 app.set('views', __dirname + '/views')
