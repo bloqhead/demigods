@@ -2,9 +2,9 @@
 
 ## An [Elden Ring](https://en.bandainamcoent.eu/elden-ring/elden-ring) weapons data API
 
-v1.0 | [Homepage](https://demigods.vercel.app/)
+v1.1 | [Homepage](https://demigods.vercel.app/)
 
-This API returns a JSON response with information about all weapons in the Elden Ring universe.
+This API returns a JSON response with information about all weapons in the Elden Ring universe, including the Shadow of the Erdtree DLC content.
 
 Built on Node and [Express](https://expressjs.com/). Hosted on [Vercel](https://vercel.com/).
 
@@ -23,6 +23,14 @@ All endpoint examples are located in the `data` directory. Item slugs are derive
 
 * "Rosus' Axe" => `rosus-axe`
 * "Cleanrot Knight's Sword" => `cleanrot-knights-sword`
+
+## Updates
+
+### v1.1 - Shadow of the Erdtree DLC
+* Added 15 new weapons from the Shadow of the Erdtree DLC
+* Added new weapon type: "light thrusting sword"
+* Added new weapon type: "spirit ashes"
+* Updated weapon counts and categories
 
 ## Roadmap / Ideas
 

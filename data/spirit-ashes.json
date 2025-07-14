@@ -1,0 +1,22 @@
+[
+  {
+    "id": 315,
+    "weapon": "Spirit Jellyfish Ashes",
+    "tier": "C",
+    "type": "spirit ashes",
+    "scaling": [
+      {
+        "arc": "D"
+      }
+    ],
+    "skill": "Spirit Jellyfish",
+    "stats": {
+      "weight": 0,
+      "physical": 0,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  }
+]

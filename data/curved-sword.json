@@ -337,5 +337,54 @@
       "light": 0,
       "holy": 0
     }
+  },
+  {
+    "id": 306,
+    "weapon": "Dancing Blade of Ranah",
+    "tier": "S",
+    "type": "curved sword",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "B"
+      },
+      {
+        "arc": "C"
+      }
+    ],
+    "skill": "Dancing Blade",
+    "stats": {
+      "weight": 3.5,
+      "physical": 95,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 316,
+    "weapon": "Swift Slash",
+    "tier": "B",
+    "type": "curved sword",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "C"
+      }
+    ],
+    "skill": "Spinning Slash",
+    "stats": {
+      "weight": 3,
+      "physical": 105,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
   }
 ]

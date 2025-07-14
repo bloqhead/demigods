@@ -136,5 +136,31 @@
       "light": 0,
       "holy": 0
     }
+  },
+  {
+    "id": 311,
+    "weapon": "Rellana's Twinblade",
+    "tier": "S",
+    "type": "twinblade",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "B"
+      },
+      {
+        "int": "C"
+      }
+    ],
+    "skill": "Moon-and-Fire Stance",
+    "stats": {
+      "weight": 6.5,
+      "physical": 89,
+      "magic": 67,
+      "fire": 67,
+      "light": 0,
+      "holy": 0
+    }
   }
 ]
