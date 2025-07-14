@@ -255,5 +255,28 @@
       "light": 0,
       "holy": 0
     }
+  },
+  {
+    "id": 307,
+    "weapon": "Great Katana",
+    "tier": "A",
+    "type": "colossal sword",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "C"
+      }
+    ],
+    "skill": "Dragon Hunt",
+    "stats": {
+      "weight": 16,
+      "physical": 155,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
   }
 ]

@@ -312,5 +312,28 @@
       "light": 0,
       "holy": 0
     }
+  },
+  {
+    "id": 313,
+    "weapon": "Smithscript Greathammer",
+    "tier": "A",
+    "type": "colossal weapon",
+    "scaling": [
+      {
+        "str": "C"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Stamp (Upward Cut)",
+    "stats": {
+      "weight": 20,
+      "physical": 175,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
   }
 ]

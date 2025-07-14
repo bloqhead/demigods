@@ -196,5 +196,31 @@
       "light": 0,
       "holy": 0
     }
+  },
+  {
+    "id": 308,
+    "weapon": "Lightning Perfume Bottle",
+    "tier": "B",
+    "type": "fist",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      },
+      {
+        "arc": "C"
+      }
+    ],
+    "skill": "Spark Aromatics",
+    "stats": {
+      "weight": 1.5,
+      "physical": 45,
+      "magic": 0,
+      "fire": 0,
+      "light": 65,
+      "holy": 0
+    }
   }
 ]

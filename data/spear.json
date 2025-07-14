@@ -334,5 +334,51 @@
       "light": 0,
       "holy": 0
     }
+  },
+  {
+    "id": 309,
+    "weapon": "Messmer Soldier's Spear",
+    "tier": "C",
+    "type": "spear",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Impaling Thrust",
+    "stats": {
+      "weight": 5.5,
+      "physical": 125,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 314,
+    "weapon": "Smithscript Spear",
+    "tier": "B",
+    "type": "spear",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "C"
+      }
+    ],
+    "skill": "Charge Forth",
+    "stats": {
+      "weight": 4.5,
+      "physical": 115,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
   }
 ]

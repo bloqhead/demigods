@@ -1,0 +1,25 @@
+[
+  {
+    "id": 310,
+    "weapon": "Milady",
+    "tier": "S",
+    "type": "light thrusting sword",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "B"
+      }
+    ],
+    "skill": "Impaling Thrust",
+    "stats": {
+      "weight": 2.5,
+      "physical": 98,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  }
+]

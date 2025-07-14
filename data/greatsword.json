@@ -461,5 +461,31 @@
       "light": 0,
       "holy": 0
     }
+  },
+  {
+    "id": 319,
+    "weapon": "Voidwrought Blade",
+    "tier": "S",
+    "type": "greatsword",
+    "scaling": [
+      {
+        "str": "C"
+      },
+      {
+        "dex": "C"
+      },
+      {
+        "int": "B"
+      }
+    ],
+    "skill": "Void Slash",
+    "stats": {
+      "weight": 10,
+      "physical": 135,
+      "magic": 85,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
   }
 ]

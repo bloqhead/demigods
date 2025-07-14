@@ -136,5 +136,28 @@
       "light": 0,
       "holy": 0
     }
+  },
+  {
+    "id": 317,
+    "weapon": "Thorned Whip",
+    "tier": "A",
+    "type": "whip",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "B"
+      }
+    ],
+    "skill": "Kick",
+    "stats": {
+      "weight": 2.5,
+      "physical": 125,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
   }
 ]

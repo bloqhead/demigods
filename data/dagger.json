@@ -371,5 +371,74 @@
       "light": 0,
       "holy": 0
     }
+  },
+  {
+    "id": 305,
+    "weapon": "Backhand Blade",
+    "tier": "A",
+    "type": "dagger",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "B"
+      }
+    ],
+    "skill": "Blade of Death",
+    "stats": {
+      "weight": 2.5,
+      "physical": 89,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 312,
+    "weapon": "Smithscript Dagger",
+    "tier": "B",
+    "type": "dagger",
+    "scaling": [
+      {
+        "str": "D"
+      },
+      {
+        "dex": "C"
+      }
+    ],
+    "skill": "Quickstep",
+    "stats": {
+      "weight": 1.5,
+      "physical": 78,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
+  },
+  {
+    "id": 318,
+    "weapon": "Throwing Dagger",
+    "tier": "D",
+    "type": "dagger",
+    "scaling": [
+      {
+        "str": "E"
+      },
+      {
+        "dex": "D"
+      }
+    ],
+    "skill": "Quickstep",
+    "stats": {
+      "weight": 1,
+      "physical": 65,
+      "magic": 0,
+      "fire": 0,
+      "light": 0,
+      "holy": 0
+    }
   }
 ]
